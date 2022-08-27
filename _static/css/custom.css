@@ -1,0 +1,374 @@
+/* Customize palette */
+button[data-md-color-primary=unicatt] {
+    background-color: #00325c
+}
+
+[data-md-color-primary=unicatt] .md-typeset a {
+    color: #00325c
+}
+
+[data-md-color-primary=unicatt] .md-header,
+[data-md-color-primary=unicatt] .md-hero {
+    background-color: #00325c
+}
+
+[data-md-color-primary=unicatt] .md-nav__link--active,
+[data-md-color-primary=unicatt] .md-nav__link:active {
+    color: #00325c
+}
+
+[data-md-color-primary=unicatt] .md-nav__item--nested>.md-nav__link {
+    color: inherit
+}
+
+button[data-md-color-accent=unicatt] {
+    background-color: #c23e46
+}
+
+[data-md-color-accent=unicatt] .md-typeset a:active,
+[data-md-color-accent=unicatt] .md-typeset a:hover {
+    color: #c23e46
+}
+
+[data-md-color-accent=unicatt] .md-typeset .codehilite pre::-webkit-scrollbar-thumb:hover,
+[data-md-color-accent=unicatt] .md-typeset pre code::-webkit-scrollbar-thumb:hover {
+    background-color: #c23e46
+}
+
+[data-md-color-accent=unicatt] .md-nav__link:focus,
+[data-md-color-accent=unicatt] .md-nav__link:hover,
+[data-md-color-accent=unicatt] .md-typeset .footnote li:hover .footnote-backref:hover,
+[data-md-color-accent=unicatt] .md-typeset .footnote li:target .footnote-backref,
+[data-md-color-accent=unicatt] .md-typeset .md-clipboard:active:before,
+[data-md-color-accent=unicatt] .md-typeset .md-clipboard:hover:before,
+[data-md-color-accent=unicatt] .md-typeset [id] .headerlink:focus,
+[data-md-color-accent=unicatt] .md-typeset [id]:hover .headerlink:hover,
+[data-md-color-accent=unicatt] .md-typeset [id]:target .headerlink {
+    color: #c23e46
+}
+
+[data-md-color-accent=unicatt] .md-search__scrollwrap::-webkit-scrollbar-thumb:hover {
+    background-color: #c23e46
+}
+
+[data-md-color-accent=unicatt] .md-search-result__link:hover,
+[data-md-color-accent=unicatt] .md-search-result__link[data-md-state=active] {
+    background-color: rgba(255, 23, 68, .1)
+}
+
+[data-md-color-accent=unicatt] .md-sidebar__scrollwrap::-webkit-scrollbar-thumb:hover {
+    background-color: #c23e46
+}
+
+[data-md-color-accent=unicatt] .md-source-file:hover:before {
+    background-color: #c23e46
+}
+
+@media only screen and (max-width:59.9375em) {
+    [data-md-color-primary=unicatt] .md-nav__source {
+        background-color: #c23e46
+    }
+}
+
+@media only screen and (max-width:76.1875em) {
+    html [data-md-color-primary=unicatt] .md-nav--primary .md-nav__title--site {
+        background-color: #00325c
+    }
+}
+
+@media only screen and (min-width:76.25em) {
+    [data-md-color-primary=unicatt] .md-tabs {
+        background-color: #00325c
+    }
+}
+
+/* Hide undesired items */
+.md-sidebar--secondary, .md-footer {
+    display: None;
+}
+
+#index--page-root, .toctree-wrapper {
+    display: None;
+}
+
+@media only screen and (min-width: 76.25em) {
+    .md-content {
+        margin-left: 1.0rem;
+        margin-right: 1.0rem;
+    }
+
+    .md-sidebar--primary, .md-tabs, .md-header-nav__source {
+        display: none;
+    }
+}
+@media only screen and (min-width: 60em) and (max-width: 76.1875em) {
+    .md-content {
+        margin-right: 1.0rem;
+    }
+
+    .md-header-nav__source {
+        display: none;
+    }
+
+    .md-logo {
+        display: none !important;
+    }
+
+    html [data-md-color-primary=unicatt] .md-nav--primary .md-nav__title--site {
+        height: auto;
+        padding: 0.2rem 0.8rem 0.2rem 0.8rem;
+    }
+}
+@media only screen and (max-width: 60em) {
+    .md-content {
+        margin-right: 1.0rem;
+    }
+
+    .md-icon--search, .md-nav__source {
+        display: none;
+    }
+
+    .md-logo {
+        display: none !important;
+    }
+
+    html [data-md-color-primary=unicatt] .md-nav--primary .md-nav__title--site {
+        height: auto;
+        padding: 0.2rem 0.8rem 0.2rem 0.8rem;
+    }
+}
+
+.md-nav__link[for=__toc]:after {
+    display: none !important;
+}
+
+/*
+Sphinx-design customization, see:
+https://sphinx-design.readthedocs.io/en/alabaster-theme/css_variables.html
+https://github.com/executablebooks/sphinx-design/blob/main/style/_button.scss
+https://github.com/executablebooks/sphinx-design/blob/main/style/_cards.scss
+https://github.com/executablebooks/sphinx-design/blob/main/style/_tabs.scss
+
+*/
+:root {
+    --sd-color-primary: #00325c;
+    --sd-color-secondary: #c23e46;
+    --sd-color-primary-highlight: #002a4e;
+    --sd-color-secondary-highlight: #a5343b;
+}
+
+.sd-card {
+    border: 2px solid var(--sd-color-primary);
+    border-radius: 0.5rem;
+}
+
+.sd-card:hover {
+    border: 2px solid var(--sd-color-secondary);
+    transform: scale(1.01);
+}
+
+.sd-card-header {
+    background-color: var(--sd-color-primary);
+    border-bottom: 0px solid black;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.sd-card-header:first-child {
+    border-radius: calc(0.5rem - 2px) calc(0.5rem - 2px) 0 0;
+}
+
+.sd-card:hover > .sd-card-header {
+    background-color: var(--sd-color-secondary);
+    border-bottom: 0px solid black;
+    color: white;
+}
+
+[data-md-color-primary=unicatt] .sd-card-header a {
+    color: white;
+}
+
+[data-md-color-primary=unicatt] .sd-card:hover > .sd-card-header a {
+    color: white;
+}
+
+.sd-card-footer {
+    border-top: 0px solid black;
+    font-size: small;
+    text-align: right;
+}
+
+.sd-card-footer:last-child {
+    border-radius: 0 0 calc(0.5rem - 2px) calc(0.5rem - 2px);
+}
+
+.sd-card-body ul, .sd-card-body ol {
+    margin: 0;
+}
+
+.sd-card-body li::marker, .sd-tab-content li::marker {
+    color: var(--sd-color-primary);
+}
+
+.sd-card:hover li::marker {
+    color: var(--sd-color-secondary);
+}
+
+.sd-tab-set > input + label {
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.sd-tab-set > input + label {
+    border-bottom: 0px solid black;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    padding-top: 0.5em;
+}
+
+.sd-tab-set > input:not(:checked) + label {
+    background-color: var(--sd-color-primary);
+    border-top: 2px solid var(--sd-color-primary);
+    border-right: 2px solid var(--sd-color-primary);
+    border-left: 2px solid var(--sd-color-primary);
+    color: white;
+}
+
+.sd-tab-set > input:checked + label, .sd-tab-set > input:not(:checked) + label:hover {
+    background-color: var(--sd-color-secondary);
+    border-top: 2px solid var(--sd-color-secondary);
+    border-right: 2px solid var(--sd-color-secondary);
+    border-left: 2px solid var(--sd-color-secondary);
+    color: white;
+}
+
+.sd-btn-shadow-primary-no-hover, .sd-btn-shadow-secondary-no-hover, .sd-btn-outline-primary-no-hover, .sd-btn-outline-secondary-no-hover {
+    width: 15em;
+}
+
+.sd-btn-shadow-primary-no-hover:hover, .sd-btn-shadow-primary-no-hover:focus {
+    background-color: var(--sd-color-primary) !important;
+    color: white !important;
+    cursor: auto;
+}
+
+.sd-btn-shadow-secondary-no-hover:hover, .sd-btn-shadow-secondary-no-hover:focus {
+    background-color: var(--sd-color-secondary) !important;
+    color: white !important;
+    cursor: auto;
+}
+
+.sd-btn-outline-primary-no-hover:hover, .sd-btn-outline-primary-no-hover:focus {
+    background-color: white !important;
+    color: var(--sd-color-primary) !important;
+    cursor: auto;
+}
+
+
+.sd-btn-outline-secondary-no-hover:hover, .sd-btn-outline-secondary-no-hover:focus {
+    background-color: white !important;
+    color: var(--sd-color-secondary) !important;
+    cursor: auto;
+}
+
+.sd-badge-affiliation-container p {
+    margin: 0.4em;
+}
+
+.sd-badge-affiliation-container .sd-badge {
+    width: 10em;
+    font-size: 1em;
+    margin-left: 4em;
+}
+
+.sd-badge-affiliation-container .sd-badge-next-text {
+    margin-left: 6em;
+}
+
+.sd-card-body-software-img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.sd-card-body-software-img-container img {
+    width: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.sd-card:hover .sd-card-software-container .sd-badge {
+    color: var(--sd-color-secondary) !important;
+    border-color: var(--sd-color-secondary) !important;
+}
+
+.sd-card-software-container p {
+    margin: 0.4em;
+}
+
+.sd-card-software-container .sd-badge {
+    width: 10em;
+    font-size: 1em;
+}
+
+.sd-card-software-container .sd-badge-next-text {
+    margin-left: 2em;
+}
+
+/* Incompatibilities between sphinx-material-design and sphinx-design */
+.md-typeset details {
+    border: 2px solid var(--sd-color-primary);
+    border-radius: 0.5rem;
+}
+
+.md-typeset details > summary {
+    background-color: var(--sd-color-primary);
+}
+
+.md-typeset details > summary::before, .md-typeset details > summary::after {
+    content: none;
+}
+
+/*
+Sphinx-carousel customization, see:
+https://getbootstrap.com/docs/5.2/layout/grid/#grid-options
+*/
+.scbs-carousel-caption {
+    background-color: black;
+    opacity: 0.8;
+    padding: 5px;
+}
+
+@media only screen and (max-width: 576px) {
+    .scbs-carousel-caption {
+        font-size: xx-small;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 768px) {
+    .scbs-carousel-caption {
+        font-size: x-small;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .scbs-carousel-caption {
+        font-size: small;
+    }
+}
+
+.scbs-carousel-caption p {
+    color: white;
+    margin-bottom: 0;
+}
+
+[data-md-color-primary=unicatt] .scbs-carousel-caption p a {
+    color: white;
+    display: block;
+}
+
+.scbs-carousel-indicators {
+    margin-bottom: 0;
+}

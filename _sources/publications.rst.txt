@@ -1,0 +1,70 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+Publications
+============
+
+.. tab-set::
+
+    .. tab-item:: 2022
+
+    
+        .. bibliography::
+            :list: enumerated
+            :style: custom_bib_style_full_list
+            :filter: year and (year == "2022")
+            :start: 54
+    
+    .. tab-item:: 2021
+
+    
+        .. bibliography::
+            :list: enumerated
+            :style: custom_bib_style_full_list
+            :filter: year and (year == "2021")
+            :start: 43
+    
+    .. tab-item:: 2020
+
+    
+        .. bibliography::
+            :list: enumerated
+            :style: custom_bib_style_full_list
+            :filter: year and (year == "2020")
+            :start: 29
+    
+    .. tab-item:: 2019
+
+    
+        .. bibliography::
+            :list: enumerated
+            :style: custom_bib_style_full_list
+            :filter: year and (year == "2019")
+            :start: 20
+    
+    .. tab-item:: 2018
+
+    
+        .. bibliography::
+            :list: enumerated
+            :style: custom_bib_style_full_list
+            :filter: year and (year == "2018")
+            :start: 15
+    
+    .. tab-item:: 2017
+
+    
+        .. bibliography::
+            :list: enumerated
+            :style: custom_bib_style_full_list
+            :filter: year and (year == "2017")
+            :start: 12
+    
+    .. tab-item:: < 2017
+
+    
+        .. bibliography::
+            :list: enumerated
+            :style: custom_bib_style_full_list
+            :filter: year and (year < "2017")
+            :start: 9
+    

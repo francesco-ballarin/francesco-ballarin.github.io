@@ -1,0 +1,146 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+Software
+========
+.. dropdown:: RBniCS - reduced order modelling in FEniCS
+
+    .. container:: sd-card-software-container
+
+        .. container:: sd-card-body-software-img-container
+
+    
+            .. image:: https://www.rbnicsproject.org/_images/rbnics-logo-small.png
+    
+
+    
+        The **RBniCS** Project contains an implementation in **FEniCS** of several reduced order modelling techniques for parametrized problems.
+    
+        **RBniCS** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_ in collaboration with `Prof. Gianluigi Rozza <https://people.sissa.it/~grozza/>`_'s group at `SISSA mathLab <http://mathlab.sissa.it/>`_. The financial support of the `AROMA-CFD ERC CoG project <https://people.sissa.it/~grozza/aroma-cfd/>`_ is gratefully acknowledged.
+    
+        Like all core **FEniCS** components, **RBniCS** is freely available under the GNU LGPL, version 3.
+    
+
+        :bdg-primary-line:`Home page`
+
+        .. container:: sd-badge-next-text
+
+            https://www.rbnicsproject.org/
+
+        :bdg-primary-line:`Source code`
+
+        .. container:: sd-badge-next-text
+
+            https://github.com/rbnics/rbnics
+
+        :bdg-primary-line:`Years active`
+
+        .. container:: sd-badge-next-text
+
+            2015-ongoing
+.. dropdown:: multiphenics/multiphenicsx - easy prototyping of multiphysics problems in FEniCS/FEniCSx
+
+    .. container:: sd-card-software-container
+
+        .. container:: sd-card-body-software-img-container
+
+    
+            .. image:: https://raw.githubusercontent.com/multiphenics/multiphenics/master/docs/multiphenics-logo-small.png
+    
+            .. image:: https://raw.githubusercontent.com/multiphenics/multiphenicsx/main/docs/multiphenicsx-logo-small.png
+    
+
+    
+        **multiphenics** and **multiphenicsx** are python libraries that aim at providing tools in **FEniCS** and **FEniCSx**, respectively, for an easy prototyping of multiphysics problems on conforming meshes. In particular, they facilitate the definition of subdomain/boundary restricted variables.</p>
+    
+        **multiphenics** and **multiphenicsx** are currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_ in collaboration with `Prof. Gianluigi Rozza <https://people.sissa.it/~grozza/>`_'s group at `SISSA mathLab <http://mathlab.sissa.it/>`_. The financial support of the `AROMA-CFD ERC CoG project <https://people.sissa.it/~grozza/aroma-cfd/>`_ is gratefully acknowledged.
+    
+        Like all core **FEniCS** and **FEniCSx** components, **multiphenics** and **multiphenicsx** are freely available under the GNU LGPL, version 3.
+    
+
+        :bdg-primary-line:`Home page`
+
+        .. container:: sd-badge-next-text
+
+            https://mathlab.sissa.it/multiphenics
+
+        :bdg-primary-line:`Source code`
+
+        .. container:: sd-badge-next-text
+
+            https://github.com/multiphenics/multiphenics, https://github.com/multiphenics/multiphenicsx
+
+        :bdg-primary-line:`Years active`
+
+        .. container:: sd-badge-next-text
+
+            2016-ongoing
+.. dropdown:: FEMlium - interactive visualization of finite element simulations on geographic maps with folium
+
+    .. container:: sd-card-software-container
+
+        .. container:: sd-card-body-software-img-container
+
+    
+            .. image:: https://femlium.github.io/_images/FEMlium-logo.png
+    
+
+    
+        **FEMlium** is a library that enables visualizing finite element simulations on geographic maps using **folium**. Several finite element backends are supported, namely dolfin, dolfinx and firedrake.
+    
+        **FEMlium** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_. The financial support of the `D.3.2 ACCURATE project <https://asa.unicatt.it/asa-progetti-accurate>`_ is gratefully acknowledged.
+    
+        Like **folium**, **FEMlium** is freely available under the MIT license.
+    
+
+        :bdg-primary-line:`Home page`
+
+        .. container:: sd-badge-next-text
+
+            https://femlium.github.io/
+
+        :bdg-primary-line:`Source code`
+
+        .. container:: sd-badge-next-text
+
+            https://github.com/FEMlium/FEMlium
+
+        :bdg-primary-line:`Years active`
+
+        .. container:: sd-badge-next-text
+
+            2021-ongoing
+.. dropdown:: FEM on Colab
+
+    .. container:: sd-card-software-container
+
+        .. container:: sd-card-body-software-img-container
+
+    
+            .. image:: https://fem-on-colab.github.io/_images/fem-on-colab-logo.png
+    
+
+    
+        **FEM on Colab** is a collection of packages that allows to easily install several finite element libraries on Google Colab. Currently supported libraries are **FEniCS**, **FEniCSx**, **firedrake** and **ngsolve**.
+    
+        **FEM on Colab** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_.
+    
+        **FEM on Colab** is freely available under the MIT license.
+    
+
+        :bdg-primary-line:`Home page`
+
+        .. container:: sd-badge-next-text
+
+            https://fem-on-colab.github.io/
+
+        :bdg-primary-line:`Source code`
+
+        .. container:: sd-badge-next-text
+
+            https://github.com/fem-on-colab/fem-on-colab
+
+        :bdg-primary-line:`Years active`
+
+        .. container:: sd-badge-next-text
+
+            2021-ongoing

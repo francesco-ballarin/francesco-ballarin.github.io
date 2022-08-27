@@ -1,0 +1,83 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+Events
+======
+
+.. tab-set::
+    
+    .. tab-item:: 2022
+
+        
+            * Francesco Ballarin, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Talk, `ARIA@VT <https://intranet.math.vt.edu/VT-ARIA_Workshop/index.html>`_, VirginiaTech, Blacksburg, Virginia, United States (Jul. 2022, 6-8).
+            * Francesco Ballarin, "Data-driven reduced order modeling of natural convection in porous media using convolutional autoencoders and Barlow Twins selfsupervised learning". Talk, `FRAME 2020+2 <https://areeweb.polito.it/disma-excellence/events_2022/Frame/index.html>`_, Politecnico di Torino, Italy (May 2022, 17-20).
+            * Francesca Bonizzoni, Francesco Ballarin. Minisymposium organizer, `SIAM UQ 22 <https://www.siam.org/conferences/cm/conference/uq22>`_, Atlanta, Georgia, United States (Apr. 2022, 12-15), minisymposium on "Reduced Order Modelling for Forward and Inverse UQ".
+            * Francesco Ballarin, "Optimal control and reduced order models: enablers to assimilate boundary conditions from data for cardiovascular simulations". Invited seminar, `ARIA <https://project.inria.fr/aria/seminar-march-2022/>`_, Online (Mar. 2022, 10).
+    
+    .. tab-item:: 2021
+
+        
+            * Gianluigi Rozza, Francesco Ballarin, Andrea Mola, Giovanni Stabile, SISSA mathLab team. Local organizing committee, `RAMSES: Reduced order models; Approximation theory; Machine learning; Surrogates, Emulators and Simulators <https://indico.sissa.it/event/43/>`_, Trieste, Italy (Dec. 2021, 14-17).
+            * Francesco Ballarin, Youngsoo Choi, Nikolaos Bouklas. Minisymposium organizer, `Mechanistic Machine Learning and Digital Twins for Computational Science, Engineering & Technology 2021 <https://mmldt.eng.ucsd.edu/>`_, Online (Sep. 2021, 26-29), minisymposium on "Advances in reduced order modeling of solids, fluids, and porous media".
+            * Efthymios N. Karatzas, Francesco Ballarin, Gianluigi Rozza, "Projection-based ROMs for CutFEM in parametrized domains". Talk in a minisymposium, `ICTAM 2020+1 <https://www.ictam2020.org/>`_, Online (Aug. 2021, 22-27).
+            * Teeratorn Kadeethum, Sanghyun Lee, Francesco Ballarin, Hamid Nick. Minisymposium organizer, `SIAM GS 2021 <https://www.mate.polimi.it/siamgs21/>`_, Online (Jun. 2021, 21-24), minisymposium on "Multiphysics Modeling in Fractured Porous Media".
+            * Francesco Ballarin, "Mathematical modelling of the cardiovascular system". Divulgative seminar, `SCIENCE@HOME <https://www.unicatt.it/eventi/evt-sciencehome>`_, Università Cattolica del Sacro Cuore, Brescia, Italy (Jun. 2021, 18).
+            * Federico Pichi, Maria Strazzullo, Francesco Ballarin, Gianluigi Rozza, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Talk in a minisymposium, `COUPLED 2021 <https://coupled2021.cimne.com/>`_, Online (Jun. 2021, 14-16).
+            * Francesco Ballarin, "RBniCS and multiphenics: two FEniCS-based packages for reduced order modelling and multiphysics problems". Talk in a minisymposium, `WCCM ECCOMAS 2020 <https://www.wccm-eccomas2020.org/>`_, Online (Jan. 2021, 11-15).
+    
+    .. tab-item:: 2020
+
+        
+            * Federico Pichi, Maria Strazzullo, Francesco Ballarin, Gianluigi Rozza, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Invited seminar, `CASA Colloquia 2020 <https://www.win.tue.nl/casa/meetings/colloquium/2021/>`_, Department of Mathematics and Computer Science, Eindhoven University of Technology, The Netherlands (Dec. 2020, 16).
+            * Gianluigi Rozza, Giovanni Stabile, Francesco Ballarin. Minisymposium organizer, `SIAM UQ 2020 (canceled) <https://www.siam.org/conferences/cm/conference/uq20>`_, Munich Garching, Germany (Mar. 2020, 24-27), minisymposium on "Reduced order methods for uncertainty quantification in CFD parametric problems".
+    
+    .. tab-item:: 2019
+
+        
+            * Francesco Ballarin, "Mathematical modelling of the cardiovascular system". Divulgative seminar, `Junior Math Days 2019 <https://people.sissa.it/~vfantini/JMD2019/SchoolMath.html>`_, SISSA, Trieste, Italy (Dec. 2019, 18).
+            * Francesco Ballarin, "RBniCS and multiphenics: two FEniCS-based packages for reduced order modelling and multiphysics problems". Invited seminar, Engineering Science Research Unit, University of Luxembourg (Nov. 2019, 18).
+            * Efthymios N. Karatzas, Francesco Ballarin, Gianluigi Rozza, "Projection-based ROMs for CutFEM in parametrized domains". Talk in a minisymposium, `ENUMATH 2019 <https://www.enumath2019.eu/>`_, Egmond aan Zee, The Netherlands (Sep. 2019, 30 - Oct. 2019, 4).
+            * Efthymios N. Karatzas, Francesco Ballarin, Gianluigi Rozza, "Projection-based ROMs for CutFEM in parametrized domains". Talk in a minisymposium, `ICIAM 2019 <https://iciam2019.org/>`_, Valencia, Spain (Jul. 2019, 15-19).
+            * Gianluigi Rozza, Francesco Ballarin, Giovanni Stabile, SISSA mathLab team. Local organizing committee, `Summer School on Reduced Order Methods in Computational Fluid Dynamics <https://indico.sissa.it/event/34/>`_, Trieste, Italy (Jul. 2019, 8-12).
+    
+    .. tab-item:: 2018
+
+        
+            * Gianluigi Rozza, Francesco Ballarin, "Reduced Order Methods for Parametric Problems in Computational Fluid Dynamics, with Applications in Hemodynamics and Industry". Invited seminar, `Computational Mechanics & Advanced Materials Group Seminar <http://www-2.unipv.it/compmech/seminars/Rozza-Ballarin_2018.pdf>`_, University of Pavia, Italy (Nov. 2018, 19).
+            * Gianluigi Rozza, Francesco Ballarin, "Virtual surgery design through computational fluid dynamics". Talk, `EuroBioHighTech 2018 <http://www.eurobiohightech.it/>`_, Trieste, Italy (Sep. 2018, 26-27).
+            * Francesco Ballarin, Bernard Haasdonk. Working group organizer, `DRWA18: Dolomites Research Week on Approximation 2018 <https://events.math.unipd.it/drwa18/>`_, Alba di Canazei, Italy (Sep. 2018, 10-14), working group on "Approximation with Reduced Basis Methods".
+            * Francesco Ballarin, Gianluigi Rozza, "Challenges (and successes) for ROMs in computational fluid dynamics". Talk in a working group, `DRWA18: Dolomites Research Week on Approximation 2018 <https://events.math.unipd.it/drwa18/>`_, Alba di Canazei, Italy (Sep. 2018, 10-14).
+            * Francesco Ballarin, Stefano Zonca. Minisymposium organizer, `SIMAI 2018 <https://ocs.simai.eu/index.php/SIMAIcongress/SIMAI2018>`_, Rome, Italy (Jul. 2018, 2-6), minisymposium on "Mathematical Modelling and Computational Methods for the Cardiovascular System".
+            * Francesco Ballarin, Davide Torlo, Luca Venturi, Gianluigi Rozza, "Weighted Reduced Order Methods for Parametrized PDEs with Random Inputs". Talk in a minisymposium, `SIAM UQ 2018 <https://www.siam.org/meetings/uq18/>`_, Garden Grove, California, United States (Apr. 2018, 16-19).
+            * Monica Nonino, Maria Strazzullo, Zakia Zainib, Francesco Ballarin, Gianluigi Rozza, "POD-Galerkin reduced order methods for inverse problems and multi-physics problems in fluid dynamics". Poster, `MoRePaS 2018: Model Reduction of Parametrized Systems IV <https://morepas2018.sciencesconf.org/>`_, Nantes, France (Apr. 2018, 10-13).
+    
+    .. tab-item:: 2017
+
+        
+            * Francesco Ballarin, Davide Torlo, Luca Venturi, Gianluigi Rozza, "Weighted reduced order methods for parametrized PDEs with random inputs". Talk, `UMEMA 2017: Uncertainty Modeling for Engineering Applications <https://umema.eu/>`_, Turin, Italy (Nov. 2017, 23-24).
+            * Francesco Ballarin, Shafqat Ali, Enrique Delgado, Davide Torlo, Thomas Cachon, Macarena Gomez, Gianluigi Rozza, "Some recent developments on ROMs in computational fluid dynamics". Talk, `LMS-EPSRC Durham Symposium <http://www.maths.dur.ac.uk/lms/107/>`_, Durham, United Kingdom (Aug. 2017, 7-17).
+            * Francesco Ballarin, Davide Torlo, Luca Venturi, Gianluigi Rozza, "Weighted reduced order methods for parametrized PDEs with random inputs". Talk, `QUIET 2017: Quantification of Uncertainty: Improving Efficiency and Technology <https://indico.sissa.it/event/8/>`_, Trieste, Italy (Jul. 2017, 18-21).
+            * Gianluigi Rozza, Francesco Ballarin, Giovanni Stabile, SISSA mathLab team. Local organizing committee, `QUIET 2017: Quantification of Uncertainty: Improving Efficiency and Technology <https://indico.sissa.it/event/8/>`_, Trieste, Italy (Jul. 2017, 18-21).
+            * Francesco Ballarin, "Reduced order methods in computational fluid dynamics, with application to cardiovascular flows". Invited seminar, `Analysis Junior Seminars <https://www.math.sissa.it/content/ajs-analysis-junior-seminars-2016-2017>`_, SISSA, Trieste, Italy (Mar. 2017, 24).
+            * Francesco Ballarin, Gianluigi Rozza, Yvon Maday, "Reduced Order Modelling for Fluid-Structure Interaction and Optimal Control Problems". Talk in a minisymposium, `SIAM CSE 2017 <https://www.siam.org/meetings/cse17/>`_, Atlanta, United States (Feb. 2017, 27 - Mar. 2017, 3).
+            * Zihan Chen, Francesco Ballarin, Gianluigi Rozza, Andrew Crean, Laura Jimenez-Juan, Piero Triverio, "New trends for advanced reduced order methods in CFD: a representative clinical application to patient-specific aortic coarctation disease". Talk, `PRIN workshop on Cardiovascular Modeling <http://matematica.unipv.it/pieroconference/>`_, Pavia, Italy (Feb. 2017, 21-22).
+            * Francesco Ballarin, "Reduced order methods for fast simulations of patient-specific cardiovascular flows". Invited seminar, Department of Electrical and Computer Engineering, University of Toronto, Toronto, Canada (Feb. 2017, 9).
+            * Francesco Ballarin, "Computational fluid dynamics simulations of cardiovascular flows". Invited seminar, Cardiology Research Rounds, Sunnybrook Health Sciences Centre, Toronto, Canada (Feb. 2017, 7).
+    
+    .. tab-item:: < 2017
+
+        
+            * Francesco Ballarin, Gianluigi Rozza, "New trends for advanced reduced order methods in CFD: applications to parametric cardiovascular flows". Talk, `ME3 conference in a special quarter on numerical methods for PDEs at IHP <http://www.ihp.fr/en/CEB/T3-2016>`_, Paris, France (Nov. 2016, 7-10).
+            * Francesco Ballarin, Gianluigi Rozza, Yvon Maday, "Recent advances and perspectives on reduced order modelling in computational fluid dynamics and beyond: update on fluid structure interaction problems". Talk in a minisymposium, `SIMAI 2016 <https://www.eko.polimi.it/index.php/SIMAI2016/SIMAI2016>`_, Milan, Italy (Sep. 2016, 13-16).
+            * Francesco Ballarin, Gianluigi Rozza, Yvon Maday, "Recent advances and perspectives on reduced order modelling in computational fluid dynamics and beyond: update on fluid structure interaction problems". Talk in a minisymposium, `ECCOMAS 2016 <https://www.eccomas2016.org/>`_, Crete, Greece (Jun. 2016, 5-10).
+            * Francesco Ballarin, Andrew Crean, Laura Jimenez-Juan, Gianluigi Rozza, Piero Triverio, "Data Assimilation, Parameter Estimation and ROM for Cardiovascular Flows". Talk in a minisymposium, `SIAM UQ 2016 <https://www.siam.org/meetings/uq16/>`_, Lausanne, Switzerland (Apr. 2016, 5-8).
+            * Gianluigi Rozza, Francesco Ballarin, SISSA mathLab team. Local organizing committee, `MoRePaS 2015: Model Reduction of Parametrized Systems III <http://indico.sissa.it/event/4/>`_, Trieste, Italy (Oct. 2015, 13-16).
+            * Francesco Ballarin, Gianluigi Rozza, "POD-Galerkin methods for parametrized problems in flow control and fluid-structure interaction". Talk, `MoRePaS 2015: Model Reduction of Parametrized Systems III <http://indico.sissa.it/event/4/>`_, Trieste, Italy (Oct. 2015, 13-16).
+            * Francesco Ballarin, Alberto Sartori, Gianluigi Rozza, "RBniCS - reduced order modelling in FEniCS". Poster, `MoRePaS 2015: Model Reduction of Parametrized Systems III <http://indico.sissa.it/event/4/>`_, Trieste, Italy (Oct. 2015, 13-16).
+            * Francesco Ballarin, Gianluigi Rozza, "Reduced-order models for parametrized problems in computational fluid dynamics". Talk, `Advances in Numerical Analysis, Scientific Computing and Computational Mechanics <https://mathlab.sissa.it/advances-numerical-analysis-scientific-computing-and-computational-mechanics>`_, SISSA mathLab, Trieste, Italy (Jul. 2015, 13-14).
+            * Francesco Ballarin, Gianluigi Rozza, "Reduced-order models for cardiovascular flows". Talk, `Joint UNITS-SISSA workshop on Applied Mathematics in Fluid Mechanics <https://mathlab.sissa.it/joint-sissa-units-workshop-applied-math-fluid-mechanics>`_, SISSA mathLab, Trieste, Italy (May 2015, 14).
+            * Francesco Ballarin, Elena Faggiano, Sonia Ippolito, Andrea Manzoni, Alfio Quarteroni, Gianluigi Rozza, Roberto Scrofani, "Reduced-order models for patient-specific haemodynamics of coronary artery bypass grafts". Talk in a minisymposium, `SIAM CSE 2015 <http://www.siam.org/meetings/cse15/>`_, Salt Lake City, United States (Mar. 2015, 13-18).
+            * Francesco Ballarin, Elena Faggiano, Sonia Ippolito, Andrea Manzoni, Alfio Quarteroni, Gianluigi Rozza, Roberto Scrofani, "Reduced-order models for patient-specific haemodynamics of coronary artery bypass grafts". Talk, `YS3 INDAM Young Scientists Seminars Series <http://www.math.sissa.it/content/ys3-indam-young-scientists-seminars-series>`_, SISSA mathLab, Trieste, Italy (Oct. 2014, 8-9).
+            * Francesco Ballarin, Elena Faggiano, Riccardo Ferrero, Andrea Manzoni, Alfio Quarteroni, Gianluigi Rozza, Roberto Scrofani, "Computational study and reduced order models of patient-specific coronary artery bypass grafts". Poster, `4th International Conference on Engineering Frontiers in Pediatric and Congenital Heart Disease <https://who.rocq.inria.fr/Sanjay.Pant/EF2014/>`_, Paris, France (May 2014, 21-22).
+            * Francesco Ballarin, Elena Faggiano, Sonia Ippolito, Andrea Manzoni, Alfio Quarteroni, Gianluigi Rozza, Roberto Scrofani, "Reduced-order models for patient-specific haemodynamics of coronary artery bypass grafts". Talk, `European Conference on Computational Optimization 2013 <https://www.tu-chemnitz.de/mathematik/part_dgl/events/2013_eucco/>`_, Chemnitz, Germany (Jul. 2013, 17-19).
+            * Francesco Ballarin, Elena Faggiano, Sonia Ippolito, Andrea Manzoni, Alfio Quarteroni, Gianluigi Rozza, Roberto Scrofani, "Patient-specific haemodynamics of coronary artery bypass grafts: clinical imaging and reduced order models". Talk, `Modelling of Physiological Flows 2013 <http://www.mathcard.eu/mpf2013>`_, Chia Laguna, Italy (Jun. 2013, 11-14).
+            * Francesco Ballarin, Toni Lassila, Andrea Manzoni, Gianluigi Rozza, "Geometrical reduction for shape optimization problems". Poster, `Reduced Basis, POD and Reduced Order Methods for model and computational reduction: towards real-time computing and visualization <http://www.cecam.org/workshop-681.html>`_, Lausanne, Switzerland (Jun. 2012, 14-16).

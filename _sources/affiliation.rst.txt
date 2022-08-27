@@ -1,0 +1,312 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+Affiliation
+===========
+Current position
+----------------
+
+.. _position_1:
+
+.. button-link:: #position_1
+    :color: primary
+    :shadow:
+    :class: sd-btn-shadow-primary-no-hover
+
+    :octicon:`calendar;1em;sd-text-light` Mar. 2021 -  
+
+.. container:: sd-badge-affiliation-container
+
+    
+    :bdg-primary-line:`Position`
+
+    .. container:: sd-badge-next-text
+
+        Tenure-track Assistant Professor in Numerical Analysis (Ricercatore a Tempo Determinato di tipo B)
+
+    :bdg-primary-line:`Institution`
+
+    .. container:: sd-badge-next-text
+
+        `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_,
+        `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_
+
+        
+
+        
+
+
+
+.. _position_2:
+
+.. button-link:: #position_2
+    :color: primary
+    :shadow:
+    :class: sd-btn-shadow-primary-no-hover
+
+    :octicon:`calendar;1em;sd-text-light` Jul. 2020 - Jul. 2030
+
+.. container:: sd-badge-affiliation-container
+
+    
+    :bdg-primary-line:`Habilitation`
+
+    .. container:: sd-badge-next-text
+
+        Italian National Scientific Qualification for Associate Professorship in Numerical Analysis
+
+
+Former positions
+----------------
+
+.. _position_3:
+
+.. button-link:: #position_3
+    :color: primary
+    :shadow:
+    :class: sd-btn-shadow-primary-no-hover
+
+    :octicon:`calendar;1em;sd-text-light` Jun. 2018 - Feb. 2021
+
+.. container:: sd-badge-affiliation-container
+
+    
+    :bdg-primary-line:`Position`
+
+    .. container:: sd-badge-next-text
+
+        Assistant Professor in Numerical Analysis (Ricercatore a Tempo Determinato di tipo A)
+
+    :bdg-primary-line:`Institution`
+
+    .. container:: sd-badge-next-text
+
+        `SISSA mathLab <https://mathlab.sissa.it>`_
+
+        
+
+        
+    :bdg-primary-line:`Project`
+
+    .. container:: sd-badge-next-text
+
+            
+        `ERC CoG project AROMA-CFD <https://people.sissa.it/~grozza/aroma-cfd>`_
+        (PI: Prof. Gianluigi Rozza)
+
+
+
+.. _position_4:
+
+.. button-link:: #position_4
+    :color: primary
+    :shadow:
+    :class: sd-btn-shadow-primary-no-hover
+
+    :octicon:`calendar;1em;sd-text-light` Jan. 2017 - May 2018
+
+.. container:: sd-badge-affiliation-container
+
+    
+    :bdg-primary-line:`Position`
+
+    .. container:: sd-badge-next-text
+
+        Post-doctoral research fellow
+
+    :bdg-primary-line:`Institution`
+
+    .. container:: sd-badge-next-text
+
+        `SISSA mathLab <https://mathlab.sissa.it>`_
+
+        
+    :bdg-primary-line:`Advisor`
+
+    .. container:: sd-badge-next-text
+
+        Prof. Gianluigi Rozza
+
+        
+    :bdg-primary-line:`Project`
+
+    .. container:: sd-badge-next-text
+
+            
+        `ERC CoG project AROMA-CFD <https://people.sissa.it/~grozza/aroma-cfd>`_
+
+
+
+.. _position_5:
+
+.. button-link:: #position_5
+    :color: primary
+    :shadow:
+    :class: sd-btn-shadow-primary-no-hover
+
+    :octicon:`calendar;1em;sd-text-light` Jan. 2015 - Dec. 2016
+
+.. container:: sd-badge-affiliation-container
+
+    
+    :bdg-primary-line:`Position`
+
+    .. container:: sd-badge-next-text
+
+        Post-doctoral research fellow
+
+    :bdg-primary-line:`Institution`
+
+    .. container:: sd-badge-next-text
+
+        `SISSA mathLab <https://mathlab.sissa.it>`_
+
+        
+    :bdg-primary-line:`Advisor`
+
+    .. container:: sd-badge-next-text
+
+        Prof. Gianluigi Rozza
+
+        
+    :bdg-primary-line:`Project`
+
+    .. container:: sd-badge-next-text
+
+            
+        PRIN project on Mathematical and numerical modeling of the cardiovascular system, and their clinical applications
+
+
+Education
+---------
+
+.. _position_6:
+
+.. button-link:: #position_6
+    :color: primary
+    :shadow:
+    :class: sd-btn-shadow-primary-no-hover
+
+    :octicon:`calendar;1em;sd-text-light` Jan. 2012 - Dec. 2014
+
+.. container:: sd-badge-affiliation-container
+
+    
+    :bdg-primary-line:`Ph.D.`
+
+    .. container:: sd-badge-next-text
+
+        Ph.D. in Mathematical Models and Methods in Engineering, Politecnico di Milano, Italy. Graduated cum Laude (thesis defense on March 30, 2015)
+
+    :bdg-primary-line:`Institution`
+
+    .. container:: sd-badge-next-text
+
+        `MOX, Department of Mathematics, Politecnico di Milano, Italy <https://mox.polimi.it>`_
+
+        
+    :bdg-primary-line:`Advisors`
+
+    .. container:: sd-badge-next-text
+
+        Prof. Alfio Quarteroni, Prof. Roberto Scrofani
+
+        
+    :bdg-primary-line:`Co-advisors`
+
+    .. container:: sd-badge-next-text
+
+        Prof. Gianluigi Rozza, Dr. Elena Faggiano, Dr. Andrea Manzoni
+
+    :bdg-primary-line:`Topic`
+
+    .. container:: sd-badge-next-text
+
+        Reduced-order models for patient-specific haemodynamics of coronary artery bypass grafts
+
+
+
+.. _position_7:
+
+.. button-link:: #position_7
+    :color: primary
+    :shadow:
+    :class: sd-btn-shadow-primary-no-hover
+
+    :octicon:`calendar;1em;sd-text-light` Oct. 2009 - Dec. 2011
+
+.. container:: sd-badge-affiliation-container
+
+    
+    :bdg-primary-line:`Master's degree`
+
+    .. container:: sd-badge-next-text
+
+        Master's degree in Mathematical Engineering, Politecnico di Milano. Graduated with full marks (110/110 cum Laude)
+
+    :bdg-primary-line:`Institution`
+
+    .. container:: sd-badge-next-text
+
+        `Department of Mathematics, Politecnico di Milano, Italy <https://www.mate.polimi.it>`_
+
+        
+    :bdg-primary-line:`Advisor`
+
+    .. container:: sd-badge-next-text
+
+        Prof. Sandro Salsa
+
+        
+    :bdg-primary-line:`Co-advisor`
+
+    .. container:: sd-badge-next-text
+
+        Dr. Andrea Manzoni
+
+    :bdg-primary-line:`Topic`
+
+    .. container:: sd-badge-next-text
+
+        Shape optimization for tridimensional viscous flows in cardiovascular geometries
+
+
+
+.. _position_8:
+
+.. button-link:: #position_8
+    :color: primary
+    :shadow:
+    :class: sd-btn-shadow-primary-no-hover
+
+    :octicon:`calendar;1em;sd-text-light` Sep. 2006 - Sep. 2009
+
+.. container:: sd-badge-affiliation-container
+
+    
+    :bdg-primary-line:`Bachelor's degree`
+
+    .. container:: sd-badge-next-text
+
+        Bachelor's degree in Mathematical Engineering, Politecnico di Milano. Graduated with full marks (110/110 cum Laude)
+
+    :bdg-primary-line:`Institution`
+
+    .. container:: sd-badge-next-text
+
+        `Department of Mathematics, Politecnico di Milano, Italy <https://www.mate.polimi.it>`_
+
+        
+    :bdg-primary-line:`Advisor`
+
+    .. container:: sd-badge-next-text
+
+        Dr. Carlo D'Angelo
+
+        
+
+    :bdg-primary-line:`Topic`
+
+    .. container:: sd-badge-next-text
+
+        Macroscopic models and numerical simulations for traffic flow on networks
+
