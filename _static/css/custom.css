@@ -344,6 +344,11 @@ https://getbootstrap.com/docs/5.2/layout/grid/#grid-options
 @media only screen and (max-width: 576px) {
     .scbs-carousel-caption {
         font-size: xx-small;
+        bottom: 0;
+    }
+
+    .scbs-carousel-indicators {
+        display: none;
     }
 }
 
@@ -351,11 +356,19 @@ https://getbootstrap.com/docs/5.2/layout/grid/#grid-options
     .scbs-carousel-caption {
         font-size: x-small;
     }
+
+    .scbs-carousel-indicators {
+        margin-bottom: 0;
+    }
 }
 
 @media only screen and (min-width: 768px) {
     .scbs-carousel-caption {
         font-size: small;
+    }
+
+    .scbs-carousel-indicators {
+        margin-bottom: 0;
     }
 }
 
@@ -367,8 +380,4 @@ https://getbootstrap.com/docs/5.2/layout/grid/#grid-options
 [data-md-color-primary=unicatt] .scbs-carousel-caption p a {
     color: white;
     display: block;
-}
-
-.scbs-carousel-indicators {
-    margin-bottom: 0;
 }
