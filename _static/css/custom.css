@@ -219,6 +219,7 @@ https://github.com/executablebooks/sphinx-design/blob/main/style/_tabs.scss
 .sd-tab-set > input + label {
     margin-left: 1px;
     margin-right: 1px;
+    margin-top: 1px;
 }
 
 .sd-tab-set > input + label {
