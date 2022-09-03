@@ -184,7 +184,7 @@ Francesco Ballarin
         ^^^
         * Co-advisor in the master thesis of Emanuela Viani, "Sparse direct methods and Krylov methods for large sparse linear systems". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Jul. 2022).
         * Co-advisor in the master thesis of William Andreoli, "Surface reconstruction and surface PDEs, with an application to Lake Garda". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Apr. 2022).
-        * Committee member in the master thesis of Rebecca Faustini, "Numerical analysis techinques in celestial mechanics". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2021).
+        * Committee member in the bachelor thesis of Rebecca Faustini, "Numerical analysis techinques in celestial mechanics". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2021).
         +++
         :doc:`Read more <students>`
 
@@ -195,10 +195,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
+        * Divulgative seminar, European Researchers Night, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2022, 30).
         * Talk, `ARIA@VT <https://intranet.math.vt.edu/VT-ARIA_Workshop/index.html>`_, VirginiaTech, Blacksburg, Virginia, United States (Jul. 2022, 6-8).
         * Talk, `FRAME 2020+2 <https://areeweb.polito.it/disma-excellence/events_2022/Frame/index.html>`_, Politecnico di Torino, Italy (May 2022, 17-20).
         * Minisymposium organizer, `SIAM UQ 22 <https://www.siam.org/conferences/cm/conference/uq22>`_, Atlanta, Georgia, United States (Apr. 2022, 12-15).
-        * Invited seminar, `ARIA <https://project.inria.fr/aria/seminar-march-2022/>`_, Online (Mar. 2022, 10).
         +++
         :doc:`Read more <events>`
 

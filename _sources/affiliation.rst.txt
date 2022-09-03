@@ -208,7 +208,7 @@ Education
 
     .. container:: sd-badge-next-text
 
-        Prof. Alfio Quarteroni, Prof. Roberto Scrofani
+        Prof. Alfio Quarteroni, Dr. Roberto Scrofani
 
         
     :bdg-primary-line:`Co-advisors`

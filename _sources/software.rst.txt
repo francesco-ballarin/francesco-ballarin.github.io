@@ -50,7 +50,7 @@ Software
     
 
     
-        **multiphenics** and **multiphenicsx** are python libraries that aim at providing tools in **FEniCS** and **FEniCSx**, respectively, for an easy prototyping of multiphysics problems on conforming meshes. In particular, they facilitate the definition of subdomain/boundary restricted variables.</p>
+        **multiphenics** and **multiphenicsx** are python libraries that aim at providing tools in **FEniCS** and **FEniCSx**, respectively, for an easy prototyping of multiphysics problems on conforming meshes. In particular, they facilitate the definition of subdomain/boundary restricted variables.
     
         **multiphenics** and **multiphenicsx** are currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_ in collaboration with `Prof. Gianluigi Rozza <https://people.sissa.it/~grozza/>`_'s group at `SISSA mathLab <http://mathlab.sissa.it/>`_. The financial support of the `AROMA-CFD ERC CoG project <https://people.sissa.it/~grozza/aroma-cfd/>`_ is gratefully acknowledged.
     

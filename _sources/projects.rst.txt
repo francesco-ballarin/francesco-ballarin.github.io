@@ -7,7 +7,7 @@ Projects
     .. tab-item:: Current
 
     
-        * Member and unit leader of "`Accurate ROMs for Industrial Applications <https://project.inria.fr/aria/>`_" (coordinated by Inria Bordeaux), MSCA-RISE-2019, 2022-2024. Leader of the Università Cattolica del Sacro Cuore unit. Other units: INRIA, Optimad, Politecnico di Torino, Politecnico di Milano, SISSA, Esteco, NUREA, Valorem, Volkswagen, Virtual Mechanics, Universidad de Sevilla, IEFLUIDS..
+        * Member and unit leader of "`Accurate ROMs for Industrial Applications <https://project.inria.fr/aria/>`_" (coordinated by Inria Bordeaux), MSCA-RISE-2019, 2022-2024. Leader of the Università Cattolica del Sacro Cuore unit. Other units: INRIA, Optimad, Politecnico di Torino, Politecnico di Milano, SISSA, Esteco, NUREA, Valorem, Volkswagen, Virtual Mechanics, Universidad de Sevilla, IEFLUIDS.
     
         * Member of "Metodi di riduzione computazionale per le scienze applicate: focus su sistemi complessi" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2022, 2022. Units: IMT Lucca, Politecnico di Milano, SISSA, Università Cattolica del Sacro Cuore, University of Trento.
     

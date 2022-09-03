@@ -8,6 +8,7 @@ Events
     .. tab-item:: 2022
 
         
+            * Francesco Ballarin, Maurizio Paolini, "Fluid dynamics in the aorta based on CT scan data". Divulgative seminar, European Researchers Night, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2022, 30).
             * Francesco Ballarin, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Talk, `ARIA@VT <https://intranet.math.vt.edu/VT-ARIA_Workshop/index.html>`_, VirginiaTech, Blacksburg, Virginia, United States (Jul. 2022, 6-8).
             * Francesco Ballarin, "Data-driven reduced order modeling of natural convection in porous media using convolutional autoencoders and Barlow Twins selfsupervised learning". Talk, `FRAME 2020+2 <https://areeweb.polito.it/disma-excellence/events_2022/Frame/index.html>`_, Politecnico di Torino, Italy (May 2022, 17-20).
             * Francesca Bonizzoni, Francesco Ballarin. Minisymposium organizer, `SIAM UQ 22 <https://www.siam.org/conferences/cm/conference/uq22>`_, Atlanta, Georgia, United States (Apr. 2022, 12-15), minisymposium on "Reduced Order Modelling for Forward and Inverse UQ".
