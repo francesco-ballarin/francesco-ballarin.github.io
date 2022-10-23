@@ -195,10 +195,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
+        * Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (Oct. 2022, 21).
         * Divulgative seminar, European Researchers Night, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2022, 30).
         * Talk, `ARIA@VT <https://intranet.math.vt.edu/VT-ARIA_Workshop/index.html>`_, VirginiaTech, Blacksburg, Virginia, United States (Jul. 2022, 6-8).
         * Talk, `FRAME 2020+2 <https://areeweb.polito.it/disma-excellence/events_2022/Frame/index.html>`_, Politecnico di Torino, Italy (May 2022, 17-20).
-        * Minisymposium organizer, `SIAM UQ 22 <https://www.siam.org/conferences/cm/conference/uq22>`_, Atlanta, Georgia, United States (Apr. 2022, 12-15).
         +++
         :doc:`Read more <events>`
 
