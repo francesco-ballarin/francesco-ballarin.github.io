@@ -62,6 +62,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/dd-slider.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2211.14528" target="_blank">New preprint on reduced order modelling based on domain decomposition and optimization, by I. Prusak, M. Nonino, D. Torlo, F. Ballarin, and G. Rozza (November 2022).</a>
+        
         .. figure:: _static/images/slider-giulia.png
 
             ..
@@ -110,13 +117,6 @@ Francesco Ballarin
 
             
             <a href="https://github.com/multiphenics/multiphenicsx" target="_blank">From multiphenics to multiphenicsx, the next generation of easy prototyping of multiphysics problems in FEniCSx - version 0.2.0 released in January 2022. multiphenics is still supported, but new and existing users of FEniCS and multiphenics are encouraged to gradually move to FEniCSx and multiphenicsx.</a>
-        
-        .. figure:: _static/images/efrrom-slider.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2110.05093" target="_blank">New preprint on Evolve-Filter-Relax Regularization for reduced order modelling of convection-dominated, marginally-resolved flows, by M. Strazzullo, M. Girfoglio, F. Ballarin, T. Iliescu and G. Rozza (October 2021).</a>
         
         .. figure:: _static/images/femlium-slider.png
 
