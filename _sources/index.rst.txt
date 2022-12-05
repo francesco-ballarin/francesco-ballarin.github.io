@@ -62,6 +62,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/fem-on-kaggle-slider.png
+
+            ..
+
+            
+            <a href="https://fem-on-kaggle.github.io/" target="_blank">Introducing FEM on Kaggle, a spin-off of FEM on Colab to use FEniCS, FEniCSx, firedrake, gmsh and ngsolve on Kaggle. First release in December 2022.</a>
+        
         .. figure:: _static/images/dd-slider.png
 
             ..
@@ -147,10 +154,10 @@ Francesco Ballarin
 
         :doc:`Software <software>`
         ^^^
-        * Lead developer of `RBniCS - reduced order modelling in FEniCS <https://www.rbnicsproject.org/>`_, 2015-ongoing.
-        * Lead developer of `multiphenics/multiphenicsx - easy prototyping of multiphysics problems in FEniCS/FEniCSx <https://mathlab.sissa.it/multiphenics>`_, 2016-ongoing.
-        * Lead developer of `FEMlium - interactive visualization of finite element simulations on geographic maps with folium <https://femlium.github.io/>`_, 2021-ongoing.
-        * Lead developer of `FEM on Colab <https://fem-on-colab.github.io/>`_, 2021-ongoing.
+        * Lead developer of `RBniCS - reduced order modelling in FEniCS <['https://www.rbnicsproject.org/']>`_, 2015-ongoing.
+        * Lead developer of `multiphenics/multiphenicsx - easy prototyping of multiphysics problems in FEniCS/FEniCSx <['https://mathlab.sissa.it/multiphenics']>`_, 2016-ongoing.
+        * Lead developer of `FEMlium - interactive visualization of finite element simulations on geographic maps with folium <['https://femlium.github.io/']>`_, 2021-ongoing.
+        * Lead developer of `FEM on Colab/FEM on Kaggle <['https://fem-on-colab.github.io/', 'https://fem-on-kaggle.github.io/']>`_, 2021-ongoing.
         +++
         :doc:`Read more <software>`
 

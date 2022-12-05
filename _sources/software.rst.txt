@@ -109,7 +109,7 @@ Software
         .. container:: sd-badge-next-text
 
             2021-ongoing
-.. dropdown:: FEM on Colab
+.. dropdown:: FEM on Colab/FEM on Kaggle
 
     .. container:: sd-card-software-container
 
@@ -118,26 +118,28 @@ Software
     
             .. image:: https://fem-on-colab.github.io/_images/fem-on-colab-logo.png
     
+            .. image:: https://fem-on-kaggle.github.io/_images/fem-on-kaggle-logo.png
+    
 
     
-        **FEM on Colab** is a collection of packages that allows to easily install several finite element libraries on Google Colab. Currently supported libraries are **FEniCS**, **FEniCSx**, **firedrake** and **ngsolve**.
+        **FEM on Colab** is a collection of packages that allows to easily install several finite element libraries on Google Colab. Currently supported libraries are FEniCS, FEniCSx, firedrake and ngsolve. **FEM on Kaggle** is a spin-off of **FEM on Colab** to install the same libraries on Kaggle.
     
-        **FEM on Colab** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_.
+        **FEM on Colab** and **FEM on Kaggle** are currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_.
     
-        **FEM on Colab** is freely available under the MIT license.
+        **FEM on Colab** and **FEM on Kaggle** are freely available under the MIT license.
     
 
         :bdg-primary-line:`Home page`
 
         .. container:: sd-badge-next-text
 
-            https://fem-on-colab.github.io/
+            https://fem-on-colab.github.io/, https://fem-on-kaggle.github.io/
 
         :bdg-primary-line:`Source code`
 
         .. container:: sd-badge-next-text
 
-            https://github.com/fem-on-colab/fem-on-colab
+            https://github.com/fem-on-colab/fem-on-colab, https://github.com/fem-on-kaggle/fem-on-kaggle
 
         :bdg-primary-line:`Years active`
 
