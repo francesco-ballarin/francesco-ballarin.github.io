@@ -202,10 +202,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
+        * Minisymposium organizer, `Math 2 Product 2023 <https://m2p2023.cimne.com>`_, Taormina, Italy (May 2023, 30 - Jun. 2023, 1).
         * Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (Oct. 2022, 21).
         * Divulgative seminar, European Researchers Night, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2022, 30).
         * Talk, `ARIA@VT <https://intranet.math.vt.edu/VT-ARIA_Workshop/index.html>`_, VirginiaTech, Blacksburg, Virginia, United States (Jul. 2022, 6-8).
-        * Talk, `FRAME 2020+2 <https://areeweb.polito.it/disma-excellence/events_2022/Frame/index.html>`_, Politecnico di Torino, Italy (May 2022, 17-20).
         +++
         :doc:`Read more <events>`
 
@@ -214,9 +214,9 @@ Francesco Ballarin
         :doc:`Projects <projects>`
         ^^^
         * Member and unit leader of "`Accurate ROMs for Industrial Applications <https://project.inria.fr/aria/>`_", MSCA-RISE-2019, 2022-2024.
+        * Principal investigator of "Reduced order modelling for numerical simulation of partial differential equations", D.1 project by Università Cattolica del Sacro Cuore, 2022-2024.
         * Member of "Metodi di riduzione computazionale per le scienze applicate: focus su sistemi complessi", INdAM GNCS 2022, 2022.
-        * Member of "`Accurate Climate Change Unified Risk Assessment for Territory and Environment in sub-alpine lakes <https://asa.unicatt.it/asa-progetti-accurate>`_", D.3.2 project by the Università Cattolica del Sacro Cuore, 2021.
-        * Member of "Advanced Numerical Techniques for Industrial Applications", INdAM GNCS 2020, 2020.
+        * Member of "`Accurate Climate Change Unified Risk Assessment for Territory and Environment in sub-alpine lakes <https://asa.unicatt.it/asa-progetti-accurate>`_", D.3.2 project by Università Cattolica del Sacro Cuore, 2021.
         
         +++
         :doc:`Read more <projects>`
