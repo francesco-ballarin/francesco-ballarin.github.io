@@ -202,10 +202,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
+        * Organizing committee, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
         * Minisymposium organizer, `Math 2 Product 2023 <https://m2p2023.cimne.com>`_, Taormina, Italy (May 2023, 30 - Jun. 2023, 1).
+        * Organizer, `Numerical Analysis of Galerkin ROMs seminar series <https://na-g-roms.github.io>`_, online (Jan. 2023, 17 - ongoing on a weekly basis).
         * Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (Oct. 2022, 21).
-        * Divulgative seminar, European Researchers Night, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2022, 30).
-        * Talk, `ARIA@VT <https://intranet.math.vt.edu/VT-ARIA_Workshop/index.html>`_, VirginiaTech, Blacksburg, Virginia, United States (Jul. 2022, 6-8).
         +++
         :doc:`Read more <events>`
 
