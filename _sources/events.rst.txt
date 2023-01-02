@@ -5,6 +5,7 @@ Events
 
 .. tab-set::
     
+    
     .. tab-item:: 2023
 
         
@@ -48,7 +49,7 @@ Events
             * Efthymios N. Karatzas, Francesco Ballarin, Gianluigi Rozza, "Projection-based ROMs for CutFEM in parametrized domains". Talk in a minisymposium, `ICIAM 2019 <https://iciam2019.org/>`_, Valencia, Spain (Jul. 2019, 15-19).
             * Gianluigi Rozza, Francesco Ballarin, Giovanni Stabile, SISSA mathLab team. Local organizing committee, `Summer School on Reduced Order Methods in Computational Fluid Dynamics <https://indico.sissa.it/event/34/>`_, Trieste, Italy (Jul. 2019, 8-12).
     
-    .. tab-item:: 2018
+    .. tab-item:: < 2019
 
         
             * Gianluigi Rozza, Francesco Ballarin, "Reduced Order Methods for Parametric Problems in Computational Fluid Dynamics, with Applications in Hemodynamics and Industry". Invited seminar, `Computational Mechanics & Advanced Materials Group Seminar <http://www-2.unipv.it/compmech/seminars/Rozza-Ballarin_2018.pdf>`_, University of Pavia, Italy (Nov. 2018, 19).
@@ -58,10 +59,6 @@ Events
             * Francesco Ballarin, Stefano Zonca. Minisymposium organizer, `SIMAI 2018 <https://ocs.simai.eu/index.php/SIMAIcongress/SIMAI2018>`_, Rome, Italy (Jul. 2018, 2-6), minisymposium on "Mathematical Modelling and Computational Methods for the Cardiovascular System".
             * Francesco Ballarin, Davide Torlo, Luca Venturi, Gianluigi Rozza, "Weighted Reduced Order Methods for Parametrized PDEs with Random Inputs". Talk in a minisymposium, `SIAM UQ 2018 <https://www.siam.org/meetings/uq18/>`_, Garden Grove, California, United States (Apr. 2018, 16-19).
             * Monica Nonino, Maria Strazzullo, Zakia Zainib, Francesco Ballarin, Gianluigi Rozza, "POD-Galerkin reduced order methods for inverse problems and multi-physics problems in fluid dynamics". Poster, `MoRePaS 2018: Model Reduction of Parametrized Systems IV <https://morepas2018.sciencesconf.org/>`_, Nantes, France (Apr. 2018, 10-13).
-    
-    .. tab-item:: < 2018
-
-        
             * Francesco Ballarin, Davide Torlo, Luca Venturi, Gianluigi Rozza, "Weighted reduced order methods for parametrized PDEs with random inputs". Talk, `UMEMA 2017: Uncertainty Modeling for Engineering Applications <https://umema.eu/>`_, Turin, Italy (Nov. 2017, 23-24).
             * Francesco Ballarin, Shafqat Ali, Enrique Delgado, Davide Torlo, Thomas Cachon, Macarena Gomez, Gianluigi Rozza, "Some recent developments on ROMs in computational fluid dynamics". Talk, `LMS-EPSRC Durham Symposium <http://www.maths.dur.ac.uk/lms/107/>`_, Durham, United Kingdom (Aug. 2017, 7-17).
             * Francesco Ballarin, Davide Torlo, Luca Venturi, Gianluigi Rozza, "Weighted reduced order methods for parametrized PDEs with random inputs". Talk, `QUIET 2017: Quantification of Uncertainty: Improving Efficiency and Technology <https://indico.sissa.it/event/8/>`_, Trieste, Italy (Jul. 2017, 18-21).

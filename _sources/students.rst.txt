@@ -6,6 +6,7 @@ Students
 .. tab-set::
     
     
+    
     .. tab-item:: 2022
 
         
@@ -35,15 +36,11 @@ Students
         * Co-advisor in the Ph.D. thesis of Zakia Zainib, "`Reduced order parametrized viscous optimal flow control problems and applications in coronary artery bypass grafts with patient-specific geometrical reconstruction and data assimilation <http://hdl.handle.net/20.500.11767/103036>`_". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (Sep. 2019). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the undergraduate internship of Laura Huang, "Worked examples on reduced order methods in computational mechanics". Internship in MISTI MIT-Italy Program (Summer 2019). Advisor: Gianluigi Rozza; co-advisors: Francesco Ballarin, Monica Nonino.
     
-    .. tab-item:: 2018
+    .. tab-item:: < 2019
 
         
         * Co-advisor in the Ph.D. thesis of Shafqat Ali, "`Stabilized reduced basis methods for the approximation of parametrized viscous flows <http://hdl.handle.net/20.500.11767/82794>`_". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (Sep. 2018). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the undergraduate internship of Jack Novak, "Geometrical reconstruction of patient-specific coronary artery bypass grafts". Internship in MISTI MIT-Italy Program (Summer 2018). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
-    
-    .. tab-item:: < 2018
-
-        
         * Co-advisor in the master thesis of Giulia Meglioli, "`Comparison of model order reduction approaches in parametrized optimal control problems <http://hdl.handle.net/10589/137279>`_". Master degree in Mathematical Engineering, Politecnico di Milano, Italy (Dec. 2017). Advisors: Simona Perotto, Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the master thesis of Matteo Zancanaro, "`Hierarchical model reduction techniques for flows in a parametric setting <https://www.politesi.polimi.it/handle/10589/134020>`_". Master degree in Aeronautical Engineering, Politecnico di Milano, Italy (Apr. 2017). Advisors: Simona Perotto, Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the master thesis of Maria Strazzullo, "`Reduced order methods for parametric optimal flow control problems: applications in environmental and marine sciences and engineering <http://people.sissa.it/~grozza/wp-content/uploads/2018/03/Strazzullo.pdf>`_". Master degree in Mathematics, University of Trieste, Italy (Mar. 2017). Advisor: Gianluigi Rozza; co-advisors: Renzo Mosetti, Francesco Ballarin.
