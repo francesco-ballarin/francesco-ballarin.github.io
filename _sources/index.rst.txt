@@ -189,9 +189,9 @@ Francesco Ballarin
 
         :doc:`Students <students>`
         ^^^
-        * Co-advisor in the master thesis of Emanuela Viani, "Sparse direct methods and Krylov methods for large sparse linear systems". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Jul. 2022).
-        * Co-advisor in the master thesis of William Andreoli, "Surface reconstruction and surface PDEs, with an application to Lake Garda". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Apr. 2022).
-        * Committee member in the bachelor thesis of Rebecca Faustini, "Numerical analysis techinques in celestial mechanics". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2021).
+        * Co-advisor in the bachelor thesis of Lorenzo Ronchi, "Algorithms for arbitrary precision floating-point arithmetic". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Feb. 2023).
+        * Advisor in the master thesis of Edoardo Frigerio, "Graph Neural Network: a real case application on Recommender System". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Feb. 2023).
+        * Advisor in the master thesis of Lorenzo Scandolara, "Machine learning tools for data-driven physical simulations". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Feb. 2023).
         +++
         :doc:`Read more <students>`
 
@@ -204,8 +204,8 @@ Francesco Ballarin
         ^^^
         * Organizing committee, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
         * Minisymposium organizer, `Math 2 Product 2023 <https://m2p2023.cimne.com>`_, Taormina, Italy (May 2023, 30 - Jun. 2023, 1).
-        * Organizer, `Numerical Analysis of Galerkin ROMs seminar series <https://na-g-roms.github.io>`_, online (Jan. 2023, 17 - ongoing on a weekly basis).
-        * Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (Oct. 2022, 21).
+        * Invited seminar, `ARIA@VT seminar on Regularized ROMs <https://project.inria.fr/aria/aria-vt-seminar-on-regularized-roms/>`_, VirginiaTech, Blacksburg, Virginia, United States (Feb. 2023, 2).
+        * Organizer, `ARIA@VT seminar on Regularized ROMs <https://project.inria.fr/aria/aria-vt-seminar-on-regularized-roms/>`_, VirginiaTech, Blacksburg, Virginia, United States (Feb. 2023, 2).
         +++
         :doc:`Read more <events>`
 

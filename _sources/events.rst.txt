@@ -11,7 +11,9 @@ Events
         
             * Drew F. Parsons, Francesco Ballarin, Chris Richardson. Organizing committee, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
             * Francesco Ballarin, Andrea Borio, Fabio Vicini. Minisymposium organizer, `Math 2 Product 2023 <https://m2p2023.cimne.com>`_, Taormina, Italy (May 2023, 30 - Jun. 2023, 1), minisymposium on "Numerical methods for coupled problems in geometrically complex domains".
-            * Francesco Ballarin, Maria Strazzullo, Birgul Koc, Traian Iliescu. Organizer, `Numerical Analysis of Galerkin ROMs seminar series <https://na-g-roms.github.io>`_, online (Jan. 2023, 17 - ongoing on a weekly basis).
+            * Francesco Ballarin, "Consistency of the full and reduced order models for evolve-filter-relax regularization of convection-dominated, marginally-resolved flows". Invited seminar, `ARIA@VT seminar on Regularized ROMs <https://project.inria.fr/aria/aria-vt-seminar-on-regularized-roms/>`_, VirginiaTech, Blacksburg, Virginia, United States (Feb. 2023, 2).
+            * Francesco Ballarin, Traian Iliescu. Organizer, `ARIA@VT seminar on Regularized ROMs <https://project.inria.fr/aria/aria-vt-seminar-on-regularized-roms/>`_, VirginiaTech, Blacksburg, Virginia, United States (Feb. 2023, 2).
+            * Francesco Ballarin, Maria Strazzullo, Birgul Koc, Traian Iliescu. Organizer, `Numerical Analysis of Galerkin ROMs seminar series <https://na-g-roms.github.io>`_, online (Jan. 2023, 31 - ongoing on a weekly basis).
     
     .. tab-item:: 2022
 
