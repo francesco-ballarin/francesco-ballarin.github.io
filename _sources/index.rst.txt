@@ -62,6 +62,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/vt-slider-2.png
+
+            ..
+
+            
+            I visited (again!) the group of Prof. Traian Iliescu at the Interdisciplinary Center for Applied Mathematics, Virginia Tech for a month. Thanks to the ARIA MSCA-RISE-2019 project for the financial support (January/February 2023).
+        
         .. figure:: _static/images/fem-on-kaggle-slider.png
 
             ..
@@ -82,13 +89,6 @@ Francesco Ballarin
 
             
             <a href="https://arxiv.org/abs/2207.13614" target="_blank">New preprint on mathematical analysis and numerical simulations of elastic membranes with deformable boundaries, by F. Ballarin, G. Bevilacqua, L. Lussardi, and A. Marzocchi (July 2022).</a>
-        
-        .. figure:: _static/images/vt-slider.png
-
-            ..
-
-            
-            I visited the group of Prof. Traian Iliescu at the Interdisciplinary Center for Applied Mathematics, Virginia Tech for 1 month. Thanks to the ARIA MSCA-RISE-2019 project for the financial support (June/July 2022).
         
         .. figure:: _static/images/himod-elsevier.png
 
@@ -205,7 +205,7 @@ Francesco Ballarin
         * Organizing committee, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
         * Minisymposium organizer, `Math 2 Product 2023 <https://m2p2023.cimne.com>`_, Taormina, Italy (May 2023, 30 - Jun. 2023, 1).
         * Minisymposium organizer, `SIAM Southeastern Atlantic Section Annual Meeting <https://conference.math.vt.edu/vt-siam-seas/>`_, Virginia Tech, Blacksburg, Virginia, United States (Mar. 2023, 25-26).
-        * Invited seminar, `ARIA@VT seminar on Regularized ROMs <https://project.inria.fr/aria/aria-vt-seminar-on-regularized-roms/>`_, Virginia Tech, Blacksburg, Virginia, United States (Feb. 2023, 2).
+        * Invited seminar, `Applied and Computational Mathematics Seminar <https://www.math.fsu.edu/~gallivan/ACM-Spring-2023-Seminar/FBallarin.html>`_, Department of Mathematics, Florida State University, Tallahassee, Florida, United States (Feb. 2023, 21).
         +++
         :doc:`Read more <events>`
 
