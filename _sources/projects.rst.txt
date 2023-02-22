@@ -7,32 +7,34 @@ Projects
     .. tab-item:: Current
 
     
+        * Member of "Metodi numerici per lo studio di strutture geometriche parametriche complesse" (PI: Dr. Maria Strazzullo), INdAM GNCS 2023, 2023. Units: Politecnico di Torino, Università Cattolica del Sacro Cuore, Università di Parma.
+    
         * Member and unit leader of "`Accurate ROMs for Industrial Applications <https://project.inria.fr/aria/>`_" (coordinated by Inria Bordeaux), MSCA-RISE-2019, 2022-2024. Leader of the Università Cattolica del Sacro Cuore unit. Other units: INRIA, Optimad, Politecnico di Torino, Politecnico di Milano, SISSA, Esteco, NUREA, Valorem, Volkswagen, Virtual Mechanics, Universidad de Sevilla, IEFLUIDS.
     
         * Principal investigator of "Reduced order modelling for numerical simulation of partial differential equations", D.1 project by Università Cattolica del Sacro Cuore, 2022-2024. Units at Università Cattolica del Sacro Cuore: Department of Mathematics and Physics.
     
-        * Member of "Metodi di riduzione computazionale per le scienze applicate: focus su sistemi complessi" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2022, 2022. Units: IMT Lucca, Politecnico di Milano, SISSA, Università Cattolica del Sacro Cuore, University of Trento.
-    
     .. tab-item:: Past
 
     
+        * Member of "Metodi di riduzione computazionale per le scienze applicate: focus su sistemi complessi" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2022, 2022. Units: IMT Lucca, Politecnico di Milano, SISSA, Università Cattolica del Sacro Cuore, Università di Trento.
+    
         * Member of "`Accurate Climate Change Unified Risk Assessment for Territory and Environment in sub-alpine lakes <https://asa.unicatt.it/asa-progetti-accurate>`_" (PI: Prof. Maurizio Paolini), D.3.2 project by Università Cattolica del Sacro Cuore, 2021. Units at Università Cattolica del Sacro Cuore: Department of Mathematics and Physics, Graduate School of Environmental Studies, Faculty of Education.
     
-        * Member of "Advanced Numerical Techniques for Industrial Applications" (PI: Prof. Simona Perotto), INdAM GNCS 2020, 2020. Units: Politecnico di Milano, SISSA, University of Pavia.
+        * Member of "Advanced Numerical Techniques for Industrial Applications" (PI: Prof. Simona Perotto), INdAM GNCS 2020, 2020. Units: Politecnico di Milano, SISSA, Università di Pavia.
     
-        * Member of "`Numerical Analysis of Full and Reduced Order Methods for Partial Differential Equations <https://people.sissa.it/~grozza/na-from-pdes/>`_" (PI: Prof. Gianluigi Rozza), PRIN 2017, 2019-2021. Units: National Research Council, Politecnico di Torino, SISSA, University of Brescia, University of Milano, University of Pavia, University of Trento.
+        * Member of "`Numerical Analysis of Full and Reduced Order Methods for Partial Differential Equations <https://people.sissa.it/~grozza/na-from-pdes/>`_" (PI: Prof. Gianluigi Rozza), PRIN 2017, 2019-2021. Units: Consiglio Nazionale delle Ricerche, Politecnico di Torino, SISSA, Università di Brescia, Università di Milano, Università di Pavia, Università di Trento.
     
-        * Member of "Advanced Intrusive and Non-Intrusive Model Order Reduction Techniques and Applications" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2019, 2019. Units: Politecnico di Milano, Politecnico di Torino, SISSA, University of Pavia, University of Trento.
+        * Member of "Advanced Intrusive and Non-Intrusive Model Order Reduction Techniques and Applications" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2019, 2019. Units: Politecnico di Milano, Politecnico di Torino, SISSA, Università di Pavia, Università di Trento.
     
-        * Member of "Model Reduction in Medical Applications" (PI: Prof. Simona Perotto), INdAM GNCS 2018, 2018. Units: IUSS Pavia, Politecnico di Milano, SISSA, University of Pavia, University of Trento.
+        * Member of "Model Reduction in Medical Applications" (PI: Prof. Simona Perotto), INdAM GNCS 2018, 2018. Units: IUSS Pavia, Politecnico di Milano, SISSA, Università di Pavia, Università di Trento.
     
-        * Member of "Advanced numerical methods combined with computational reduction techniques for parameterised PDEs and applications" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2017, 2017. Units: Politecnico di Milano, SISSA, University of Pavia, University of Trento.
+        * Member of "Advanced numerical methods combined with computational reduction techniques for parameterised PDEs and applications" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2017, 2017. Units: Politecnico di Milano, SISSA, Università di Pavia, Università di Trento.
     
         * Member and tasks coordinator of "`Advanced Reduced Order Modelling techniques with a focus in Computational Fluid Dynamics <https://people.sissa.it/~grozza/aroma-cfd/>`_" (PI: Prof. Gianluigi Rozza), ERC CoG, 2016-2021. Units: SISSA.
     
-        * Member of "Tecniche di riduzione della complessita computazionale per le scienze applicate" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2016, 2016. Units: Politecnico di Milano, SISSA, University of Pavia, University of Trento.
+        * Member of "Tecniche di riduzione della complessita computazionale per le scienze applicate" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2016, 2016. Units: Politecnico di Milano, SISSA, Università di Pavia, Università di Trento.
     
-        * Member of "Mathematical and numerical modeling of the cardiovascular system and clinical applications" (PI: Prof. Alfio Quarteroni), PRIN 2012, 2015-2016. Units: Politecnico di Milano, SISSA, University of Milano, University of Pavia.
+        * Member of "Mathematical and numerical modeling of the cardiovascular system and clinical applications" (PI: Prof. Alfio Quarteroni), PRIN 2012, 2015-2016. Units: Politecnico di Milano, SISSA, Università di Milano, Università di Pavia.
     
         * Member of "European Model Reduction Network" (PI: Prof. Wilhelmus Schilders), Cost Action TD1307, 2014-2018. Units from 25 European countries.
     
