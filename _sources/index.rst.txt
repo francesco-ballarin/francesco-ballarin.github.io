@@ -4,7 +4,7 @@ Francesco Ballarin
 =========================================================
 .. meta::
     :description lang=en:
-        Francesco Ballarin is a Tenure-track Assistant Professor in Numerical Analysis at the Department of Mathematics and Physics, Università Cattolica del Sacro Cuore.
+        Francesco Ballarin is a Tenure-track Assistant Professor of Numerical Analysis at the Department of Mathematics and Physics, Università Cattolica del Sacro Cuore.
 
 .. toctree::
     :maxdepth: 1
@@ -24,7 +24,7 @@ Francesco Ballarin
 
         :doc:`Affiliation <affiliation>`
         ^^^
-        Tenure-track Assistant Professor in Numerical Analysis at the `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_.
+        Tenure-track Assistant Professor of Numerical Analysis at the `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_.
         +++
         :doc:`Read more <affiliation>`
 

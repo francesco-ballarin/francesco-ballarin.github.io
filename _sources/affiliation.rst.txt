@@ -21,7 +21,7 @@ Current position
 
     .. container:: sd-badge-next-text
 
-        Tenure-track Assistant Professor in Numerical Analysis (Ricercatore a Tempo Determinato di tipo B)
+        Tenure-track Assistant Professor of Numerical Analysis (Ricercatore a Tempo Determinato di tipo B)
 
     :bdg-primary-line:`Institution`
 
@@ -52,7 +52,7 @@ Current position
 
     .. container:: sd-badge-next-text
 
-        Italian National Scientific Qualification for Associate Professorship in Numerical Analysis
+        Italian National Scientific Qualification for Associate Professorship of Numerical Analysis
 
 
 Former positions
@@ -74,7 +74,7 @@ Former positions
 
     .. container:: sd-badge-next-text
 
-        Assistant Professor in Numerical Analysis (Ricercatore a Tempo Determinato di tipo A)
+        Assistant Professor of Numerical Analysis (Ricercatore a Tempo Determinato di tipo A)
 
     :bdg-primary-line:`Institution`
 
