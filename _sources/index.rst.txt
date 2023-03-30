@@ -62,6 +62,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/space-time-slider.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2303.16662" target="_blank">New preprint on model order reduction for space-time finite element methods, by F. Key, M. von Danwitz, F. Ballarin and G. Rozza (March 2023).</a>
+        
         .. figure:: _static/images/vt-slider-2.png
 
             ..
@@ -103,13 +110,6 @@ Francesco Ballarin
 
             
             <a href="https://arxiv.org/abs/2202.05460" target="_blank">New preprint on data-driven model reduction using Barlow Twins self-supervised learning, by T. Kadeethum, F. Ballarin, D. O’Malley, Y. Choi, N. Bouklas, and H. Yoon (February 2022).</a>
-        
-        .. figure:: _static/images/fsi-slider.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2201.03236" target="_blank">New preprint on semi-implicit partitioned reduced basis methods for fluid-structure interaction problems, by M. Nonino, F. Ballarin, G. Rozza and Y. Maday (January 2022).</a>
         
         .. figure:: _static/images/fem-on-colab-slider.png
 
