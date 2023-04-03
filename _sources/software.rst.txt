@@ -46,7 +46,7 @@ Software
     
             .. image:: https://raw.githubusercontent.com/multiphenics/multiphenics/master/docs/multiphenics-logo-small.png
     
-            .. image:: https://raw.githubusercontent.com/multiphenics/multiphenicsx/main/docs/multiphenicsx-logo-small.png
+            .. image:: https://multiphenics.github.io/_images/multiphenicsx-logo.png
     
 
     
@@ -61,7 +61,7 @@ Software
 
         .. container:: sd-badge-next-text
 
-            https://mathlab.sissa.it/multiphenics
+            https://multiphenics.github.io
 
         :bdg-primary-line:`Source code`
 
@@ -146,3 +146,38 @@ Software
         .. container:: sd-badge-next-text
 
             2021-ongoing
+.. dropdown:: viskex - interactive visualization for firedrake and FEniCSx
+
+    .. container:: sd-card-software-container
+
+        .. container:: sd-card-body-software-img-container
+
+    
+            .. image:: https://viskex.github.io/_images/viskex-logo.png
+    
+
+    
+        **viskex** is a library for the interactive visualization of finite element simulations within jupyter notebooks in JupyterLab, Google Colab or Kaggle. Supported finite element backends are dolfinx and firedrake.
+    
+        **viskex** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_.
+    
+        **viskex** is freely available under the MIT license.
+    
+
+        :bdg-primary-line:`Home page`
+
+        .. container:: sd-badge-next-text
+
+            https://viskex.github.io/
+
+        :bdg-primary-line:`Source code`
+
+        .. container:: sd-badge-next-text
+
+            https://github.com/viskex/viskex
+
+        :bdg-primary-line:`Years active`
+
+        .. container:: sd-badge-next-text
+
+            2023-ongoing
