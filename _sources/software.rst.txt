@@ -50,7 +50,7 @@ Software
     
 
     
-        **multiphenicsx** is a python library that aim at providing tools in **FEniCSx** for an easy prototyping of multiphysics problems on conforming meshes. In particular, they facilitate the definition of subdomain/boundary restricted variables. **multiphenicsx** is the successor to **multiphenics**, a library with similar goals that used to target **FEniCS**.
+        **multiphenicsx** is a python library that aim at providing tools in **FEniCSx** for an easy prototyping of multiphysics problems on conforming meshes. In particular, it facilitates the definition of subdomain/boundary restricted variables. **multiphenicsx** is the successor to **multiphenics**, a library with similar goals that used to target **FEniCS**.
     
         **multiphenicsx** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_ in collaboration with `Prof. Gianluigi Rozza <https://people.sissa.it/~grozza/>`_'s group at `SISSA mathLab <http://mathlab.sissa.it/>`_.
     
