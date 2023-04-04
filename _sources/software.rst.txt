@@ -50,11 +50,11 @@ Software
     
 
     
-        **multiphenics** and **multiphenicsx** are python libraries that aim at providing tools in **FEniCS** and **FEniCSx**, respectively, for an easy prototyping of multiphysics problems on conforming meshes. In particular, they facilitate the definition of subdomain/boundary restricted variables.
+        **multiphenicsx** is a python library that aim at providing tools in **FEniCSx** for an easy prototyping of multiphysics problems on conforming meshes. In particular, they facilitate the definition of subdomain/boundary restricted variables. **multiphenicsx** is the successor to **multiphenics**, a library with similar goals that used to target **FEniCS**.
     
-        **multiphenics** and **multiphenicsx** are currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_ in collaboration with `Prof. Gianluigi Rozza <https://people.sissa.it/~grozza/>`_'s group at `SISSA mathLab <http://mathlab.sissa.it/>`_. The financial support of the `AROMA-CFD ERC CoG project <https://people.sissa.it/~grozza/aroma-cfd/>`_ is gratefully acknowledged.
+        **multiphenicsx** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_ in collaboration with `Prof. Gianluigi Rozza <https://people.sissa.it/~grozza/>`_'s group at `SISSA mathLab <http://mathlab.sissa.it/>`_.
     
-        Like all core **FEniCS** and **FEniCSx** components, **multiphenics** and **multiphenicsx** are freely available under the GNU LGPL, version 3.
+        Like all core **FEniCS** components, **multiphenicsx** is freely available under the GNU LGPL, version 3.
     
 
         :bdg-primary-line:`Home page`
