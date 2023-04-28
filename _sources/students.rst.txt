@@ -9,7 +9,7 @@ Students
     .. tab-item:: 2023
 
         
-        * Co-advisor in the bachelor thesis of Francesco Pasqualini, "La differenziazione automatica nei sistemi di apprendimento". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Apr. 2023). Advisor: Maurizio Paolini; co-advisor: Francesco Ballarin.
+        * Co-advisor in the bachelor thesis of Francesco Pasqualini, "Automatic differentiation for machine learning models". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Apr. 2023). Advisor: Maurizio Paolini; co-advisor: Francesco Ballarin.
         * Advisor in the master thesis of Davide Alberto Lupis, "Credit card fraud detection through isolation forest". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Apr. 2023). Advisor: Francesco Ballarin
         * Co-advisor in the bachelor thesis of Lorenzo Ronchi, "Algorithms for arbitrary precision floating-point arithmetic". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Feb. 2023). Advisor: Maurizio Paolini; co-advisor: Francesco Ballarin.
         * Advisor in the master thesis of Edoardo Frigerio, "Graph Neural Network: a real case application on Recommender System". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Feb. 2023). Advisor: Francesco Ballarin
