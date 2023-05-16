@@ -62,6 +62,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/jaemin-kim-slider.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2305.08805" target="_blank">New preprint on finite element modelling for surface and bulk poroelasticity, by J. Kim, I. Ang, F. Ballarin, C.-Y. Hui and N. Bouklas (May 2023).</a>
+        
         .. figure:: _static/images/multiphenicsx-slider.png
 
             ..
@@ -117,13 +124,6 @@ Francesco Ballarin
 
             
             <a href="https://arxiv.org/abs/2205.08127" target="_blank">New preprint on the application of HiMod to an advection-diffusion problem in microfluidics, by S. Perotto, G. Bellini, F. Ballarin, K. Calò, V. Mazzi, and U. Morbiducci (May 2022).</a>
-        
-        .. figure:: _static/images/barlow_twins_feb2022.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2202.05460" target="_blank">New preprint on data-driven model reduction using Barlow Twins self-supervised learning, by T. Kadeethum, F. Ballarin, D. O’Malley, Y. Choi, N. Bouklas, and H. Yoon (February 2022).</a>
         
         .. figure:: _static/images/fem-on-colab-slider.png
 
