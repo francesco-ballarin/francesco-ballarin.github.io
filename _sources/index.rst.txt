@@ -62,6 +62,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/cambridge-slider.png
+
+            ..
+
+            
+            I visited the group of Prof. Garth Wells at the University of Cambridge for a week (May 2023).
+        
         .. figure:: _static/images/jaemin-kim-slider.png
 
             ..
@@ -90,13 +97,6 @@ Francesco Ballarin
             
             <a href="https://arxiv.org/abs/2303.16662" target="_blank">New preprint on model order reduction for space-time finite element methods, by F. Key, M. von Danwitz, F. Ballarin and G. Rozza (March 2023).</a>
         
-        .. figure:: _static/images/vt-slider-2.png
-
-            ..
-
-            
-            I visited (again!) the group of Prof. Traian Iliescu at the Interdisciplinary Center for Applied Mathematics, Virginia Tech for a month. Thanks to the ARIA MSCA-RISE-2019 project for the financial support (January/February 2023).
-        
         .. figure:: _static/images/fem-on-kaggle-slider.png
 
             ..
@@ -118,13 +118,6 @@ Francesco Ballarin
             
             <a href="https://arxiv.org/abs/2207.13614" target="_blank">New preprint on mathematical analysis and numerical simulations of elastic membranes with deformable boundaries, by F. Ballarin, G. Bevilacqua, L. Lussardi, and A. Marzocchi (July 2022).</a>
         
-        .. figure:: _static/images/himod-elsevier.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2205.08127" target="_blank">New preprint on the application of HiMod to an advection-diffusion problem in microfluidics, by S. Perotto, G. Bellini, F. Ballarin, K. Calò, V. Mazzi, and U. Morbiducci (May 2022).</a>
-        
         .. figure:: _static/images/fem-on-colab-slider.png
 
             ..
@@ -139,19 +132,19 @@ Francesco Ballarin
             
             <a href="https://femlium.github.io/" target="_blank">FEMlium - interactive visualization of finite element simulations on geographic maps with folium - development of a new open source library started in May 2021 at Università Cattolica del Sacro Cuore.</a>
         
-        .. figure:: _static/images/unicatt-slider.png
-
-            ..
-
-            
-            Bachelor and Master thesis projects available at unicatt under my supervision. Contact me if you are interested!
-        
         .. figure:: _static/images/rbnics-slider.png
 
             ..
 
             
             <a href="https://www.rbnicsproject.org/" target="_blank">RBniCS - reduced order modelling in FEniCS - visit the new website www.rbnicsproject.org launched in August 2020</a>
+        
+        .. figure:: _static/images/unicatt-slider.png
+
+            ..
+
+            
+            Bachelor and Master thesis projects available at unicatt under my supervision. Contact me if you are interested!
         
 
 .. grid:: 1 1 2 2
