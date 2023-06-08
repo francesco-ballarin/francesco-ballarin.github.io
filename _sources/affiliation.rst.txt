@@ -43,6 +43,26 @@ Current position
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
 
+    :octicon:`calendar;1em;sd-text-light` Jun. 2023 - Jun. 2034
+
+.. container:: sd-badge-affiliation-container
+
+    
+    :bdg-primary-line:`Habilitation`
+
+    .. container:: sd-badge-next-text
+
+        Italian National Scientific Qualification for Full Professorship of Numerical Analysis
+
+
+
+.. _position_3:
+
+.. button-link:: #position_3
+    :color: primary
+    :shadow:
+    :class: sd-btn-shadow-primary-no-hover
+
     :octicon:`calendar;1em;sd-text-light` Jul. 2020 - Jul. 2030
 
 .. container:: sd-badge-affiliation-container
@@ -58,9 +78,9 @@ Current position
 Former positions
 ----------------
 
-.. _position_3:
+.. _position_4:
 
-.. button-link:: #position_3
+.. button-link:: #position_4
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -95,9 +115,9 @@ Former positions
 
 
 
-.. _position_4:
+.. _position_5:
 
-.. button-link:: #position_4
+.. button-link:: #position_5
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -136,9 +156,9 @@ Former positions
 
 
 
-.. _position_5:
+.. _position_6:
 
-.. button-link:: #position_5
+.. button-link:: #position_6
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -179,9 +199,9 @@ Former positions
 Education
 ---------
 
-.. _position_6:
+.. _position_7:
 
-.. button-link:: #position_6
+.. button-link:: #position_7
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -225,9 +245,9 @@ Education
 
 
 
-.. _position_7:
+.. _position_8:
 
-.. button-link:: #position_7
+.. button-link:: #position_8
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -271,9 +291,9 @@ Education
 
 
 
-.. _position_8:
+.. _position_9:
 
-.. button-link:: #position_8
+.. button-link:: #position_9
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover

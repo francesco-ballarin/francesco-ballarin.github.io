@@ -9,7 +9,9 @@ Events
     .. tab-item:: 2023
 
         
+            * Francesco Ballarin, "multiphenicsx - easy prototyping of multiphysics problems in FEniCSx". Poster, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
             * Drew F. Parsons, Francesco Ballarin, Chris Richardson. Organizing committee, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
+            * Francesco Ballarin, Giulia Bevilacqua, Luca Lussardi, Alfredo Marzocchi, "Elastic membranes spanning deformable boundaries". Talk in a minisymposium, `Math 2 Product 2023 <https://m2p2023.cimne.com>`_, Taormina, Italy (May 2023, 30 - Jun. 2023, 1).
             * Francesco Ballarin, Andrea Borio, Fabio Vicini. Minisymposium organizer, `Math 2 Product 2023 <https://m2p2023.cimne.com>`_, Taormina, Italy (May 2023, 30 - Jun. 2023, 1), minisymposium on "Numerical methods for coupled problems in geometrically complex domains".
             * Francesco Ballarin, Traian Iliescu, Honghu Liu. Minisymposium organizer, `SIAM Southeastern Atlantic Section Annual Meeting <https://conference.math.vt.edu/vt-siam-seas/>`_, Virginia Tech, Blacksburg, Virginia, United States (Mar. 2023, 25-26), minisymposium on "Reduced Order Models for Complex Systems".
             * Francesco Ballarin, "A Short Introduction to Reduced Order Modelling for Partial Differential Equations". Invited seminar, `Applied and Computational Mathematics Seminar <https://www.math.fsu.edu/~gallivan/ACM-Spring-2023-Seminar/FBallarin.html>`_, Department of Mathematics, Florida State University, Tallahassee, Florida, United States (Feb. 2023, 21).

@@ -203,10 +203,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
+        * Poster, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
         * Organizing committee, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
+        * Talk in a minisymposium, `Math 2 Product 2023 <https://m2p2023.cimne.com>`_, Taormina, Italy (May 2023, 30 - Jun. 2023, 1).
         * Minisymposium organizer, `Math 2 Product 2023 <https://m2p2023.cimne.com>`_, Taormina, Italy (May 2023, 30 - Jun. 2023, 1).
-        * Minisymposium organizer, `SIAM Southeastern Atlantic Section Annual Meeting <https://conference.math.vt.edu/vt-siam-seas/>`_, Virginia Tech, Blacksburg, Virginia, United States (Mar. 2023, 25-26).
-        * Invited seminar, `Applied and Computational Mathematics Seminar <https://www.math.fsu.edu/~gallivan/ACM-Spring-2023-Seminar/FBallarin.html>`_, Department of Mathematics, Florida State University, Tallahassee, Florida, United States (Feb. 2023, 21).
         +++
         :doc:`Read more <events>`
 
