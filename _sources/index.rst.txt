@@ -62,6 +62,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/slider-efr-control.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2307.00675" target="_blank">New preprint on feedback control for evolve-filter-relax regularization of Navier-Stokes equations, by M. Strazzullo, F. Ballarin, T. Iliescu, and C. Canuto (July 2023).</a>
+        
         .. figure:: _static/images/cambridge-slider.png
 
             ..
@@ -110,13 +117,6 @@ Francesco Ballarin
 
             
             <a href="https://arxiv.org/abs/2211.14528" target="_blank">New preprint on reduced order modelling based on domain decomposition and optimization, by I. Prusak, M. Nonino, D. Torlo, F. Ballarin, and G. Rozza (November 2022).</a>
-        
-        .. figure:: _static/images/slider-giulia.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2207.13614" target="_blank">New preprint on mathematical analysis and numerical simulations of elastic membranes with deformable boundaries, by F. Ballarin, G. Bevilacqua, L. Lussardi, and A. Marzocchi (July 2022).</a>
         
         .. figure:: _static/images/fem-on-colab-slider.png
 
