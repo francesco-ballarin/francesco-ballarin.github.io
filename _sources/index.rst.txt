@@ -62,6 +62,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/ADL-slider.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2307.10817" target="_blank">New preprint on approximate deconvolution Leray reduced order modelling in fluid dynamics of convection-dominated flows, by A. Sanfilippo, I. Moore, F. Ballarin and T. Iliescu (July 2023).</a>
+        
         .. figure:: _static/images/slider-efr-control.png
 
             ..
@@ -110,13 +117,6 @@ Francesco Ballarin
 
             
             <a href="https://fem-on-kaggle.github.io/" target="_blank">Introducing FEM on Kaggle, a spin-off of FEM on Colab to use FEniCS, FEniCSx, firedrake, gmsh and ngsolve on Kaggle. First release in December 2022.</a>
-        
-        .. figure:: _static/images/dd-slider.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2211.14528" target="_blank">New preprint on reduced order modelling based on domain decomposition and optimization, by I. Prusak, M. Nonino, D. Torlo, F. Ballarin, and G. Rozza (November 2022).</a>
         
         .. figure:: _static/images/fem-on-colab-slider.png
 
