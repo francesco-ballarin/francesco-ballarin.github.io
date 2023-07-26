@@ -7,9 +7,9 @@ Teaching
     .. tab-item:: Current
 
     
-        * Teaching assistant for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (3 editions: Spring 2023, Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
-        * Teaching assistant for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (3 editions: Fall 2022 + Spring 2023, Fall 2021 + Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
-        * Lecturer for course on "Stochastic Processes and Optimization for Machine Learning". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (2 editions: Fall 2022, Fall 2021). Lecturer of other module: Bruno Buonaguidi.
+        * Teaching assistant for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Spring 2024, Spring 2023, Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
+        * Teaching assistant for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Fall 2023 + Spring 2024, Fall 2022 + Spring 2023, Fall 2021 + Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
+        * Lecturer for course on "Stochastic Processes and Optimization for Machine Learning". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (3 editions: Fall 2023, Fall 2022, Fall 2021). Lecturer of other module: Bruno Buonaguidi.
     .. tab-item:: Past
 
     
