@@ -62,6 +62,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/sevilla-slider.png
+
+            ..
+
+            
+            I visited Virtualmech and the group of Prof. ‪Tomás Chacón Rebollo at Universidad de Sevilla for five weeks, within the ARIA project (July 2023).
+        
         .. figure:: _static/images/ADL-slider.png
 
             ..
