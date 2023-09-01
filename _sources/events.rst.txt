@@ -9,6 +9,7 @@ Events
     .. tab-item:: 2023
 
         
+            * Francesco Ballarin, "Reduced order models for evolve-filter-relax regularization of Navier-Stokes equations". Talk in a minisymposium, `Congresso UMI 2023 <https://umi.dm.unibo.it/congresso2023>`_, Pisa, Italy (Sep. 2023, 4-9).
             * Francesco Ballarin, "multiphenicsx - easy prototyping of multiphysics problems in FEniCSx". Poster, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
             * Drew F. Parsons, Francesco Ballarin, Chris Richardson. Organizing committee, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
             * Francesco Ballarin, Giulia Bevilacqua, Luca Lussardi, Alfredo Marzocchi, "Elastic membranes spanning deformable boundaries". Talk in a minisymposium, `Math 2 Product 2023 <https://m2p2023.cimne.com>`_, Taormina, Italy (May 2023, 30 - Jun. 2023, 1).
