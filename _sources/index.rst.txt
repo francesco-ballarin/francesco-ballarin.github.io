@@ -62,6 +62,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/THM-ROM-slider.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2309.01004" target="_blank">New preprint on reduced order modelling for thermo-poroelasticity problems solved by means of iterative schemes, by F. Ballarin, S. Lee, and S.-Y. Yi (September 2023).</a>
+        
         .. figure:: _static/images/sevilla-slider.png
 
             ..
@@ -96,13 +103,6 @@ Francesco Ballarin
 
             
             I visited the group of Prof. Garth Wells at the University of Cambridge for a week (May 2023).
-        
-        .. figure:: _static/images/jaemin-kim-slider.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2305.08805" target="_blank">New preprint on finite element modelling for surface and bulk poroelasticity, by J. Kim, I. Ang, F. Ballarin, C.-Y. Hui, and N. Bouklas (May 2023).</a>
         
         .. figure:: _static/images/multiphenicsx-slider.png
 
