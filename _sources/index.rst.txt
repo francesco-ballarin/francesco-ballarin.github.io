@@ -210,10 +210,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
+        * Invited seminar, `Scientific machine learning and Model order reduction for partial differential equations <https://excalibur-sysgenx.github.io/workshop>`_, Online (Sep. 2023, 22).
         * Talk in a minisymposium, `Congresso UMI 2023 <https://umi.dm.unibo.it/congresso2023>`_, Pisa, Italy (Sep. 2023, 4-9).
         * Poster, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
         * Organizing committee, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
-        * Talk in a minisymposium, `Math 2 Product 2023 <https://m2p2023.cimne.com>`_, Taormina, Italy (May 2023, 30 - Jun. 2023, 1).
         +++
         :doc:`Read more <events>`
 
