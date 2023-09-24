@@ -9,6 +9,7 @@ Events
     .. tab-item:: 2023
 
         
+            * Francesco Ballarin, Maria Strazzullo, Birgul Koc, Traian Iliescu. Organizer, `Numerical Analysis of Galerkin ROMs seminar series, second semester <https://na-g-roms.github.io>`_, online (Oct. 2023, 2 - Dec. 2023, 12).
             * Francesco Ballarin, "Reduced order models for evolve-filter-relax regularization of Navier-Stokes equations". Invited seminar, `Scientific machine learning and Model order reduction for partial differential equations <https://excalibur-sysgenx.github.io/workshop>`_, Online (Sep. 2023, 22).
             * Francesco Ballarin, "Reduced order models for evolve-filter-relax regularization of Navier-Stokes equations". Talk in a minisymposium, `Congresso UMI 2023 <https://umi.dm.unibo.it/congresso2023>`_, Pisa, Italy (Sep. 2023, 4-9).
             * Francesco Ballarin, "multiphenicsx - easy prototyping of multiphysics problems in FEniCSx". Poster, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
@@ -19,7 +20,7 @@ Events
             * Francesco Ballarin, "A Short Introduction to Reduced Order Modelling for Partial Differential Equations". Invited seminar, `Applied and Computational Mathematics Seminar <https://www.math.fsu.edu/~gallivan/ACM-Spring-2023-Seminar/FBallarin.html>`_, Department of Mathematics, Florida State University, Tallahassee, Florida, United States (Feb. 2023, 21).
             * Francesco Ballarin, "Consistency of the full and reduced order models for evolve-filter-relax regularization of convection-dominated, marginally-resolved flows". Invited seminar, `ARIA@VT seminar on Regularized ROMs <https://project.inria.fr/aria/aria-vt-seminar-on-regularized-roms/>`_, Virginia Tech, Blacksburg, Virginia, United States (Feb. 2023, 2).
             * Francesco Ballarin, Traian Iliescu. Organizer, `ARIA@VT seminar on Regularized ROMs <https://project.inria.fr/aria/aria-vt-seminar-on-regularized-roms/>`_, Virginia Tech, Blacksburg, Virginia, United States (Feb. 2023, 2).
-            * Francesco Ballarin, Maria Strazzullo, Birgul Koc, Traian Iliescu. Organizer, `Numerical Analysis of Galerkin ROMs seminar series <https://na-g-roms.github.io>`_, online (Jan. 2023, 31 - ongoing on a weekly basis).
+            * Francesco Ballarin, Maria Strazzullo, Birgul Koc, Traian Iliescu. Organizer, `Numerical Analysis of Galerkin ROMs seminar series, first semester <https://na-g-roms.github.io>`_, online (Jan. 2023, 31 - May 2023, 23).
     
     .. tab-item:: 2022
 

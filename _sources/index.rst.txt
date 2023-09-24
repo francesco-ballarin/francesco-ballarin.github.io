@@ -210,10 +210,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
+        * Organizer, `Numerical Analysis of Galerkin ROMs seminar series, second semester <https://na-g-roms.github.io>`_, online (Oct. 2023, 2 - Dec. 2023, 12).
         * Invited seminar, `Scientific machine learning and Model order reduction for partial differential equations <https://excalibur-sysgenx.github.io/workshop>`_, Online (Sep. 2023, 22).
         * Talk in a minisymposium, `Congresso UMI 2023 <https://umi.dm.unibo.it/congresso2023>`_, Pisa, Italy (Sep. 2023, 4-9).
         * Poster, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
-        * Organizing committee, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (Jun. 2023, 14-16).
         +++
         :doc:`Read more <events>`
 
