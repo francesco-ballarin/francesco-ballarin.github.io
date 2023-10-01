@@ -210,10 +210,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
-        * Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (Oct. 2023, 23).
-        * Organizer, `Numerical Analysis of Galerkin ROMs seminar series, second semester <https://na-g-roms.github.io>`_, online (Oct. 2023, 2 - Dec. 2023, 12).
-        * Divulgative seminar, European Researchers Night, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2023, 29).
-        * Invited seminar, `Scientific machine learning and Model order reduction for partial differential equations <https://excalibur-sysgenx.github.io/workshop>`_, Online (Sep. 2023, 22).
+        * Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (23 Oct. 2023).
+        * Organizer, `Numerical Analysis of Galerkin ROMs seminar series, second semester <https://na-g-roms.github.io>`_, online (2 Oct. 2023 - 12 Dec. 2023).
+        * Divulgative seminar, European Researchers Night, Università Cattolica del Sacro Cuore, Brescia, Italy (29 Sep. 2023).
+        * Invited seminar, `Scientific machine learning and Model order reduction for partial differential equations <https://excalibur-sysgenx.github.io/workshop>`_, Online (22 Sep. 2023).
         +++
         :doc:`Read more <events>`
 
