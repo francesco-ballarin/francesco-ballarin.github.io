@@ -7,9 +7,11 @@ Projects
     .. tab-item:: Current
 
     
+        * Member and unit leader of "ROMEU: Reduced Order Models for Environmental and Urban flows" (PI: Dr. Giovanni Stabile), PRIN 2022 PNRR, 2023-2025. Units: IMT Lucca, Università Cattolica del Sacro Cuore, Università di Urbino.
+    
         * Member of "Metodi numerici per lo studio di strutture geometriche parametriche complesse" (PI: Dr. Maria Strazzullo), INdAM GNCS 2023, 2023. Units: Politecnico di Torino, Università Cattolica del Sacro Cuore, Università di Parma.
     
-        * Member and unit leader of "`Accurate ROMs for Industrial Applications <https://project.inria.fr/aria/>`_" (coordinated by Inria Bordeaux), MSCA-RISE-2019, 2022-2024. Leader of the Università Cattolica del Sacro Cuore unit. Other units: INRIA, Optimad, Politecnico di Torino, Politecnico di Milano, SISSA, Esteco, NUREA, Valorem, Volkswagen, Virtual Mechanics, Universidad de Sevilla, IEFLUIDS.
+        * Member and unit leader of "`ARIA: Accurate ROMs for Industrial Applications <https://project.inria.fr/aria/>`_" (coordinated by Inria Bordeaux), MSCA-RISE-2019, 2022-2024. Leader of the Università Cattolica del Sacro Cuore unit. Other units: Inria, Optimad, Politecnico di Torino, Politecnico di Milano, SISSA, Esteco, NUREA, Valorem, Volkswagen, Virtual Mechanics, Universidad de Sevilla, IEFLUIDS, Università di Trieste, Conservatoire national des arts et métiers.
     
         * Principal investigator of "Reduced order modelling for numerical simulation of partial differential equations", D.1 project by Università Cattolica del Sacro Cuore, 2022-2024. Units at Università Cattolica del Sacro Cuore: Department of Mathematics and Physics.
     
@@ -18,11 +20,11 @@ Projects
     
         * Member of "Metodi di riduzione computazionale per le scienze applicate: focus su sistemi complessi" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2022, 2022. Units: IMT Lucca, Politecnico di Milano, SISSA, Università Cattolica del Sacro Cuore, Università di Trento.
     
-        * Member of "`Accurate Climate Change Unified Risk Assessment for Territory and Environment in sub-alpine lakes <https://asa.unicatt.it/asa-progetti-accurate>`_" (PI: Prof. Maurizio Paolini), D.3.2 project by Università Cattolica del Sacro Cuore, 2021. Units at Università Cattolica del Sacro Cuore: Department of Mathematics and Physics, Graduate School of Environmental Studies, Faculty of Education.
+        * Member of "`ACCURATE: Accurate Climate Change Unified Risk Assessment for Territory and Environment in sub-alpine lakes <https://asa.unicatt.it/asa-progetti-accurate>`_" (PI: Prof. Maurizio Paolini), D.3.2 project by Università Cattolica del Sacro Cuore, 2021. Units at Università Cattolica del Sacro Cuore: Department of Mathematics and Physics, Graduate School of Environmental Studies, Faculty of Education.
     
         * Member of "Advanced Numerical Techniques for Industrial Applications" (PI: Prof. Simona Perotto), INdAM GNCS 2020, 2020. Units: Politecnico di Milano, SISSA, Università di Pavia.
     
-        * Member of "`Numerical Analysis of Full and Reduced Order Methods for Partial Differential Equations <https://people.sissa.it/~grozza/na-from-pdes/>`_" (PI: Prof. Gianluigi Rozza), PRIN 2017, 2019-2021. Units: Consiglio Nazionale delle Ricerche, Politecnico di Torino, SISSA, Università di Brescia, Università di Milano, Università di Pavia, Università di Trento.
+        * Member of "`NA-FROM-PDEs: Numerical Analysis of Full and Reduced Order Methods for Partial Differential Equations <https://people.sissa.it/~grozza/na-from-pdes/>`_" (PI: Prof. Gianluigi Rozza), PRIN 2017, 2019-2021. Units: Consiglio Nazionale delle Ricerche, Politecnico di Torino, SISSA, Università di Brescia, Università di Milano, Università di Pavia, Università di Trento.
     
         * Member of "Advanced Intrusive and Non-Intrusive Model Order Reduction Techniques and Applications" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2019, 2019. Units: Politecnico di Milano, Politecnico di Torino, SISSA, Università di Pavia, Università di Trento.
     
