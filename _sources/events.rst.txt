@@ -5,6 +5,10 @@ Events
 
 .. tab-set::
     
+    .. tab-item:: 2024
+
+        
+            * Francesco Ballarin, Maria Strazzullo, Birgul Koc, Traian Iliescu. Organizer, `Numerical Analysis of Galerkin ROMs seminar series, third semester <https://na-g-roms.github.io>`_, online (23 Jan. 2024 - 7 May 2024).
     
     .. tab-item:: 2023
 
