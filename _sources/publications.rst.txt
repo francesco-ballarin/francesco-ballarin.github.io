@@ -5,6 +5,15 @@ Publications
 
 .. tab-set::
 
+    .. tab-item:: 2024
+
+    
+        .. bibliography::
+            :list: enumerated
+            :style: custom_bib_style_full_list
+            :filter: year and (year == "2024")
+            :start: 65
+    
     .. tab-item:: 2023
 
     
