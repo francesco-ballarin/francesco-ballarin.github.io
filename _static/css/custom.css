@@ -189,12 +189,12 @@ https://github.com/executablebooks/sphinx-design/blob/main/style/_tabs.scss
 
 [data-md-color-primary=unicatt] .sd-card-header a {
     color: white;
-    text-decoration: underline;
+    text-decoration: none !important;
 }
 
 [data-md-color-primary=unicatt] .sd-card:hover > .sd-card-header a {
     color: white;
-    text-decoration: underline;
+    text-decoration: none !important;
 }
 
 .sd-card-footer {
@@ -384,4 +384,5 @@ https://getbootstrap.com/docs/5.2/layout/grid/#grid-options
 [data-md-color-primary=unicatt] .scbs-carousel-caption p a {
     color: white;
     display: block;
+    text-decoration: none !important;
 }
