@@ -166,6 +166,7 @@ Francesco Ballarin
         * Lead developer of `FEMlium - interactive visualization of finite element simulations on geographic maps with folium <https://femlium.github.io/>`_, 2021-ongoing.
         * Lead developer of `FEM on Colab/FEM on Kaggle <https://fem-on-colab.github.io/>`_, 2021-ongoing.
         * Lead developer of `viskex - interactive visualization for firedrake and FEniCSx <https://viskex.github.io/>`_, 2023-ongoing.
+        
         +++
         :doc:`Read more <software>`
 
