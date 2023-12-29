@@ -189,10 +189,12 @@ https://github.com/executablebooks/sphinx-design/blob/main/style/_tabs.scss
 
 [data-md-color-primary=unicatt] .sd-card-header a {
     color: white;
+    text-decoration: underline;
 }
 
 [data-md-color-primary=unicatt] .sd-card:hover > .sd-card-header a {
     color: white;
+    text-decoration: underline;
 }
 
 .sd-card-footer {
