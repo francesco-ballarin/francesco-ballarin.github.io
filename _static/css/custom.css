@@ -250,6 +250,7 @@ https://github.com/executablebooks/sphinx-design/blob/main/style/_tabs.scss
 
 .sd-btn-shadow-primary-no-hover, .sd-btn-shadow-secondary-no-hover, .sd-btn-outline-primary-no-hover, .sd-btn-outline-secondary-no-hover {
     width: 15em;
+    text-decoration: none !important;
 }
 
 .sd-btn-shadow-primary-no-hover:hover, .sd-btn-shadow-primary-no-hover:focus {
