@@ -5,6 +5,7 @@ Events
 
 .. tab-set::
     
+    
     .. tab-item:: 2024
 
         
@@ -55,7 +56,7 @@ Events
             * Federico Pichi, Maria Strazzullo, Francesco Ballarin, Gianluigi Rozza, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Invited seminar, `CASA Colloquia 2020 <https://www.win.tue.nl/casa/meetings/colloquium/2021/>`_, Department of Mathematics and Computer Science, Eindhoven University of Technology, The Netherlands (16 Dec. 2020).
             * Gianluigi Rozza, Giovanni Stabile, Francesco Ballarin. Minisymposium organizer, `SIAM UQ 2020 (canceled) <https://www.siam.org/conferences/cm/conference/uq20>`_, Munich Garching, Germany (24-27 Mar. 2020), minisymposium on "Reduced order methods for uncertainty quantification in CFD parametric problems".
     
-    .. tab-item:: 2019
+    .. tab-item:: < 2020
 
         
             * Francesco Ballarin, "Mathematical modelling of the cardiovascular system". Divulgative seminar, `Junior Math Days 2019 <https://people.sissa.it/~vfantini/JMD2019/SchoolMath.html>`_, SISSA, Trieste, Italy (18 Dec. 2019).
@@ -63,10 +64,6 @@ Events
             * Efthymios N. Karatzas, Francesco Ballarin, Gianluigi Rozza, "Projection-based ROMs for CutFEM in parametrized domains". Talk in a minisymposium, `ENUMATH 2019 <https://www.enumath2019.eu/>`_, Egmond aan Zee, The Netherlands (30 Sep. 2019 - 4 Oct. 2019).
             * Efthymios N. Karatzas, Francesco Ballarin, Gianluigi Rozza, "Projection-based ROMs for CutFEM in parametrized domains". Talk in a minisymposium, `ICIAM 2019 <https://iciam2019.org/>`_, Valencia, Spain (15-19 Jul. 2019).
             * Gianluigi Rozza, Francesco Ballarin, Giovanni Stabile, SISSA mathLab team. Local organizing committee, `Summer School on Reduced Order Methods in Computational Fluid Dynamics <https://indico.sissa.it/event/34/>`_, Trieste, Italy (8-12 Jul. 2019).
-    
-    .. tab-item:: < 2019
-
-        
             * Gianluigi Rozza, Francesco Ballarin, "Reduced Order Methods for Parametric Problems in Computational Fluid Dynamics, with Applications in Hemodynamics and Industry". Invited seminar, `Computational Mechanics & Advanced Materials Group Seminar <http://www-2.unipv.it/compmech/seminars/Rozza-Ballarin_2018.pdf>`_, University of Pavia, Italy (19 Nov. 2018).
             * Gianluigi Rozza, Francesco Ballarin, "Virtual surgery design through computational fluid dynamics". Talk, `EuroBioHighTech 2018 <http://www.eurobiohightech.it/>`_, Trieste, Italy (26-27 Sep. 2018).
             * Francesco Ballarin, Bernard Haasdonk. Working group organizer, `DRWA18: Dolomites Research Week on Approximation 2018 <https://events.math.unipd.it/drwa18/>`_, Alba di Canazei, Italy (10-14 Sep. 2018), working group on "Approximation with Reduced Basis Methods".

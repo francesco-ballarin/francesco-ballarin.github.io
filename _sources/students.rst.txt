@@ -6,6 +6,7 @@ Students
 .. tab-set::
     
     
+    
     .. tab-item:: 2023
 
         
@@ -39,16 +40,12 @@ Students
         * Co-advisor in the Ph.D. thesis of Federico Pichi, "`Reduced order models for parametric bifurcation problems in nonlinear PDEs <http://hdl.handle.net/20.500.11767/114329>`_". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (Sep. 2020). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the master thesis of Giuseppe Infantino, "`Reduced order methods for hemodynamics modelling <http://webthesis.biblio.polito.it/14783/1/tesi.pdf>`_". Master degree in Mathematical Engineering, Politecnico di Torino, Italy (Jul. 2020). Advisors: Claudio Canuto, Gianluigi Rozza; co-advisors: Francesco Ballarin, Michele Girfoglio.
     
-    .. tab-item:: 2019
+    .. tab-item:: < 2020
 
         
         * Co-advisor in the master thesis of Julien Genovese, "`Reduced order methods for uncertainty quantification in computational fluid dynamics <https://webthesis.biblio.polito.it/11989/1/tesi.pdf>`_". Master degree in Mathematical Engineering, Politecnico di Torino, Italy (Oct. 2019). Advisors: Claudio Canuto, Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the Ph.D. thesis of Zakia Zainib, "`Reduced order parametrized viscous optimal flow control problems and applications in coronary artery bypass grafts with patient-specific geometrical reconstruction and data assimilation <http://hdl.handle.net/20.500.11767/103036>`_". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (Sep. 2019). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the undergraduate internship of Laura Huang, "Worked examples on reduced order methods in computational mechanics". Internship in MISTI MIT-Italy Program (Summer 2019). Advisor: Gianluigi Rozza; co-advisors: Francesco Ballarin, Monica Nonino.
-    
-    .. tab-item:: < 2019
-
-        
         * Co-advisor in the Ph.D. thesis of Shafqat Ali, "`Stabilized reduced basis methods for the approximation of parametrized viscous flows <http://hdl.handle.net/20.500.11767/82794>`_". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (Sep. 2018). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the undergraduate internship of Jack Novak, "Geometrical reconstruction of patient-specific coronary artery bypass grafts". Internship in MISTI MIT-Italy Program (Summer 2018). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the master thesis of Giulia Meglioli, "`Comparison of model order reduction approaches in parametrized optimal control problems <http://hdl.handle.net/10589/137279>`_". Master degree in Mathematical Engineering, Politecnico di Milano, Italy (Dec. 2017). Advisors: Simona Perotto, Gianluigi Rozza; co-advisor: Francesco Ballarin.
