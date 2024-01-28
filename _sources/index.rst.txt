@@ -65,6 +65,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/fenics-slider.png
+
+            ..
+
+            
+            <a href="https://github.com/FEniCS/governance/blob/master/people.md" target="_blank">I joined the Steering Council of the FEniCS Project (November 2023).</a>
+        
         .. figure:: _static/images/THM-ROM-slider.png
 
             ..
