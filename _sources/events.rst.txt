@@ -9,6 +9,7 @@ Events
     .. tab-item:: 2024
 
         
+            * Francesco Ballarin, "Regularized reduced order models for control of Navier-Stokes equations". Invited seminar, `Numerical Analysis of Galerkin ROMs seminar series <https://na-g-roms.github.io>`_, online (30 Jan. 2024).
             * Francesco Ballarin, Maria Strazzullo, Birgul Koc, Traian Iliescu. Organizer, `Numerical Analysis of Galerkin ROMs seminar series, third semester <https://na-g-roms.github.io>`_, online (23 Jan. 2024 - 7 May 2024).
     
     .. tab-item:: 2023
@@ -17,7 +18,7 @@ Events
             * Francesco Ballarin, Maurizio Paolini, "Fluid dynamics in the aorta based on CT scan data". Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (23 Oct. 2023).
             * Francesco Ballarin, Maria Strazzullo, Birgul Koc, Traian Iliescu. Organizer, `Numerical Analysis of Galerkin ROMs seminar series, second semester <https://na-g-roms.github.io>`_, online (2 Oct. 2023 - 12 Dec. 2023).
             * Francesco Ballarin, Maurizio Paolini, "Fluid dynamics in the aorta based on CT scan data". Divulgative seminar, European Researchers Night, Università Cattolica del Sacro Cuore, Brescia, Italy (29 Sep. 2023).
-            * Francesco Ballarin, "Reduced order models for evolve-filter-relax regularization of Navier-Stokes equations". Invited seminar, `Scientific machine learning and Model order reduction for partial differential equations <https://excalibur-sysgenx.github.io/workshop>`_, Online (22 Sep. 2023).
+            * Francesco Ballarin, "Reduced order models for evolve-filter-relax regularization of Navier-Stokes equations". Invited seminar, `Scientific machine learning and Model order reduction for partial differential equations <https://excalibur-sysgenx.github.io/workshop>`_, online (22 Sep. 2023).
             * Francesco Ballarin, "Reduced order models for evolve-filter-relax regularization of Navier-Stokes equations". Talk in a minisymposium, `Congresso UMI 2023 <https://umi.dm.unibo.it/congresso2023>`_, Pisa, Italy (4-9 Sep. 2023).
             * Francesco Ballarin, "multiphenicsx - easy prototyping of multiphysics problems in FEniCSx". Poster, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (14-16 Jun. 2023).
             * Drew F. Parsons, Francesco Ballarin, Chris Richardson. Organizing committee, `FEniCS 2023 <https://fenicsproject.org/fenics-2023>`_, Pula (Cagliari), Italy (14-16 Jun. 2023).
@@ -37,18 +38,18 @@ Events
             * Francesco Ballarin, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Talk, `ARIA@VT <https://intranet.math.vt.edu/VT-ARIA_Workshop/index.html>`_, Virginia Tech, Blacksburg, Virginia, United States (6-8 Jul. 2022).
             * Francesco Ballarin, "Data-driven reduced order modeling of natural convection in porous media using convolutional autoencoders and Barlow Twins selfsupervised learning". Talk, `FRAME 2020+2 <https://areeweb.polito.it/disma-excellence/events_2022/Frame/index.html>`_, Politecnico di Torino, Italy (17-20 May 2022).
             * Francesca Bonizzoni, Francesco Ballarin. Minisymposium organizer, `SIAM UQ 22 <https://www.siam.org/conferences/cm/conference/uq22>`_, Atlanta, Georgia, United States (12-15 Apr. 2022), minisymposium on "Reduced Order Modelling for Forward and Inverse UQ".
-            * Francesco Ballarin, "Optimal control and reduced order models: enablers to assimilate boundary conditions from data for cardiovascular simulations". Invited seminar, `ARIA <https://project.inria.fr/aria/seminar-march-2022/>`_, Online (10 Mar. 2022).
+            * Francesco Ballarin, "Optimal control and reduced order models: enablers to assimilate boundary conditions from data for cardiovascular simulations". Invited seminar, `ARIA <https://project.inria.fr/aria/seminar-march-2022/>`_, online (10 Mar. 2022).
     
     .. tab-item:: 2021
 
         
             * Gianluigi Rozza, Francesco Ballarin, Andrea Mola, Giovanni Stabile, SISSA mathLab team. Local organizing committee, `RAMSES: Reduced order models; Approximation theory; Machine learning; Surrogates, Emulators and Simulators <https://indico.sissa.it/event/43/>`_, Trieste, Italy (14-17 Dec. 2021).
-            * Francesco Ballarin, Youngsoo Choi, Nikolaos Bouklas. Minisymposium organizer, `Mechanistic Machine Learning and Digital Twins for Computational Science, Engineering & Technology 2021 <https://mmldt.eng.ucsd.edu/>`_, Online (26-29 Sep. 2021), minisymposium on "Advances in reduced order modeling of solids, fluids, and porous media".
-            * Efthymios N. Karatzas, Francesco Ballarin, Gianluigi Rozza, "Projection-based ROMs for CutFEM in parametrized domains". Talk in a minisymposium, `ICTAM 2020+1 <https://www.ictam2020.org/>`_, Online (22-27 Aug. 2021).
-            * Teeratorn Kadeethum, Sanghyun Lee, Francesco Ballarin, Hamid Nick. Minisymposium organizer, `SIAM GS 2021 <https://www.mate.polimi.it/siamgs21/>`_, Online (21-24 Jun. 2021), minisymposium on "Multiphysics Modeling in Fractured Porous Media".
+            * Francesco Ballarin, Youngsoo Choi, Nikolaos Bouklas. Minisymposium organizer, `Mechanistic Machine Learning and Digital Twins for Computational Science, Engineering & Technology 2021 <https://mmldt.eng.ucsd.edu/>`_, online (26-29 Sep. 2021), minisymposium on "Advances in reduced order modeling of solids, fluids, and porous media".
+            * Efthymios N. Karatzas, Francesco Ballarin, Gianluigi Rozza, "Projection-based ROMs for CutFEM in parametrized domains". Talk in a minisymposium, `ICTAM 2020+1 <https://www.ictam2020.org/>`_, online (22-27 Aug. 2021).
+            * Teeratorn Kadeethum, Sanghyun Lee, Francesco Ballarin, Hamid Nick. Minisymposium organizer, `SIAM GS 2021 <https://www.mate.polimi.it/siamgs21/>`_, online (21-24 Jun. 2021), minisymposium on "Multiphysics Modeling in Fractured Porous Media".
             * Francesco Ballarin, "Mathematical modelling of the cardiovascular system". Divulgative seminar, `SCIENCE@HOME <https://www.unicatt.it/eventi/evt-sciencehome>`_, Università Cattolica del Sacro Cuore, Brescia, Italy (18 Jun. 2021).
-            * Federico Pichi, Maria Strazzullo, Francesco Ballarin, Gianluigi Rozza, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Talk in a minisymposium, `COUPLED 2021 <https://coupled2021.cimne.com/>`_, Online (14-16 Jun. 2021).
-            * Francesco Ballarin, "RBniCS and multiphenics: two FEniCS-based packages for reduced order modelling and multiphysics problems". Talk in a minisymposium, `WCCM ECCOMAS 2020 <https://www.wccm-eccomas2020.org/>`_, Online (11-15 Jan. 2021).
+            * Federico Pichi, Maria Strazzullo, Francesco Ballarin, Gianluigi Rozza, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Talk in a minisymposium, `COUPLED 2021 <https://coupled2021.cimne.com/>`_, online (14-16 Jun. 2021).
+            * Francesco Ballarin, "RBniCS and multiphenics: two FEniCS-based packages for reduced order modelling and multiphysics problems". Talk in a minisymposium, `WCCM ECCOMAS 2020 <https://www.wccm-eccomas2020.org/>`_, online (11-15 Jan. 2021).
     
     .. tab-item:: 2020
 
