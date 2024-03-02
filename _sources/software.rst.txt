@@ -15,7 +15,7 @@ Software
     
         The **RBniCS** Project contains an implementation in **FEniCS** of several reduced order modelling techniques for parametrized problems.
     
-        **RBniCS** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_ in collaboration with `Prof. Gianluigi Rozza <https://people.sissa.it/~grozza/>`_'s group at `SISSA mathLab <http://mathlab.sissa.it/>`_.
+        **RBniCS** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Prof. Francesco Ballarin <https://www.francescoballarin.it/>`_ in collaboration with `Prof. Gianluigi Rozza <https://people.sissa.it/~grozza/>`_'s group at `SISSA mathLab <http://mathlab.sissa.it/>`_.
     
         Like all core **FEniCS** components, **RBniCS** is freely available under the GNU LGPL, version 3.
     
@@ -52,7 +52,7 @@ Software
     
         **multiphenicsx** is a python library that aim at providing tools in **FEniCSx** for an easy prototyping of multiphysics problems on conforming meshes. In particular, it facilitates the definition of subdomain/boundary restricted variables. **multiphenicsx** is the successor to **multiphenics**, a library with similar goals that used to target **FEniCS**.
     
-        **multiphenicsx** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_.
+        **multiphenicsx** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Prof. Francesco Ballarin <https://www.francescoballarin.it/>`_.
     
         Like all core **FEniCSx** components, **multiphenicsx** is freely available under the GNU LGPL, version 3.
     
@@ -87,7 +87,7 @@ Software
     
         **FEMlium** is a library that enables visualizing finite element simulations on geographic maps using **folium**. Several finite element backends are supported, namely dolfin, dolfinx and firedrake.
     
-        **FEMlium** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_.
+        **FEMlium** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Prof. Francesco Ballarin <https://www.francescoballarin.it/>`_.
     
         Like **folium**, **FEMlium** is freely available under the MIT license.
     
@@ -124,7 +124,7 @@ Software
     
         **FEM on Colab** is a collection of packages that allows to easily install several finite element libraries on Google Colab. Currently supported libraries are FEniCS, FEniCSx, firedrake and ngsolve. **FEM on Kaggle** is a spin-off of **FEM on Colab** to install the same libraries on Kaggle.
     
-        **FEM on Colab** and **FEM on Kaggle** are currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_.
+        **FEM on Colab** and **FEM on Kaggle** are currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Prof. Francesco Ballarin <https://www.francescoballarin.it/>`_.
     
         **FEM on Colab** and **FEM on Kaggle** are freely available under the MIT license.
     
@@ -159,7 +159,7 @@ Software
     
         **viskex** is a library for the interactive visualization of finite element simulations within jupyter notebooks in JupyterLab, Google Colab or Kaggle. Supported finite element backends are dolfinx and firedrake.
     
-        **viskex** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Dr. Francesco Ballarin <https://www.francescoballarin.it/>`_.
+        **viskex** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Prof. Francesco Ballarin <https://www.francescoballarin.it/>`_.
     
         **viskex** is freely available under the MIT license.
     

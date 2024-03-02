@@ -4,7 +4,7 @@ Francesco Ballarin
 =========================================================
 .. meta::
     :description lang=en:
-        Francesco Ballarin is a Tenure-track Assistant Professor of Numerical Analysis at the Department of Mathematics and Physics, Università Cattolica del Sacro Cuore.
+        Francesco Ballarin is a Associate Professor of Numerical Analysis at the Department of Mathematics and Physics, Università Cattolica del Sacro Cuore.
 
 .. toctree::
     :maxdepth: 1
@@ -25,7 +25,7 @@ Francesco Ballarin
 
         :doc:`Affiliation <affiliation>`
         ^^^
-        Tenure-track Assistant Professor of Numerical Analysis at the `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_.
+        Associate Professor of Numerical Analysis at the `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_.
         +++
         :doc:`Read more <affiliation>`
 
@@ -221,10 +221,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
+        * Invited seminar, `Data-Driven Physical Simulations seminar series <https://www.librom.net/ddps.html>`_, online (22 Feb. 2024).
         * Invited seminar, `Numerical Analysis of Galerkin ROMs seminar series <https://na-g-roms.github.io>`_, online (30 Jan. 2024).
         * Organizer, `Numerical Analysis of Galerkin ROMs seminar series, third semester <https://na-g-roms.github.io>`_, online (23 Jan. 2024 - 7 May 2024).
         * Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (23 Oct. 2023).
-        * Organizer, `Numerical Analysis of Galerkin ROMs seminar series, second semester <https://na-g-roms.github.io>`_, online (2 Oct. 2023 - 12 Dec. 2023).
         +++
         :doc:`Read more <events>`
 
