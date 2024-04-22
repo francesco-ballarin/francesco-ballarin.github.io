@@ -208,9 +208,9 @@ Francesco Ballarin
 
         :doc:`Students <students>`
         ^^^
+        * Co-advisor in the master thesis of Rebecca Faustini, "Spectral element methods for fourth order elliptic problems". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Apr. 2024).
         * Advisor in the master thesis of Erica Pirondi, "Cluster Identification and Neural Network Application in Patients with Cardiovascular Disease". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Oct. 2023).
         * Co-advisor in the bachelor thesis of Maria Ghisini, "Numerical optimization techniques for machine learning problems". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Jul. 2023).
-        * Co-advisor in the bachelor thesis of Francesco Pasqualini, "Automatic differentiation for machine learning models". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Apr. 2023).
         +++
         :doc:`Read more <students>`
 

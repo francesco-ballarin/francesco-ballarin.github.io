@@ -6,6 +6,10 @@ Students
 .. tab-set::
     
     
+    .. tab-item:: 2024
+
+        
+        * Co-advisor in the master thesis of Rebecca Faustini, "Spectral element methods for fourth order elliptic problems". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Apr. 2024). Advisor: Maurizio Paolini; co-advisors: Paola Gervasio, Francesco Ballarin.
     
     .. tab-item:: 2023
 
