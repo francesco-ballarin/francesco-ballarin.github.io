@@ -65,6 +65,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/sevilla-slider.png
+
+            ..
+
+            
+            I will visit Virtualmech and the group of Prof. ‪Tomás Chacón Rebollo at Universidad de Sevilla for four weeks, within the ARIA project (July 2024).
+        
         .. figure:: _static/images/fenics-slider.png
 
             ..
@@ -79,89 +86,19 @@ Francesco Ballarin
             
             <a href="https://arxiv.org/abs/2309.01004" target="_blank">New preprint on reduced order modelling for thermo-poroelasticity problems solved by means of iterative schemes, by F. Ballarin, S. Lee, and S.-Y. Yi (September 2023).</a>
         
-        .. figure:: _static/images/sevilla-slider.png
+        .. figure:: _static/images/software-slider.png
 
             ..
 
             
-            I visited Virtualmech and the group of Prof. ‪Tomás Chacón Rebollo at Universidad de Sevilla for five weeks, within the ARIA project (July 2023).
-        
-        .. figure:: _static/images/glass-slider.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2307.14700" target="_blank">New preprint on computational modelling of molten glass in an industrial furnace, by F. Ballarin, E. Delgado Ávila, A. Mola, and G. Rozza (July 2023).</a>
-        
-        .. figure:: _static/images/ADL-slider.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2307.10817" target="_blank">New preprint on approximate deconvolution Leray reduced order modelling in fluid dynamics of convection-dominated flows, by A. Sanfilippo, I. Moore, F. Ballarin, and T. Iliescu (July 2023).</a>
-        
-        .. figure:: _static/images/slider-efr-control.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2307.00675" target="_blank">New preprint on feedback control for evolve-filter-relax regularization of Navier-Stokes equations, by M. Strazzullo, F. Ballarin, T. Iliescu, and C. Canuto (July 2023).</a>
-        
-        .. figure:: _static/images/cambridge-slider.png
-
-            ..
-
-            
-            I visited the group of Prof. Garth Wells at the University of Cambridge for a week (May 2023).
-        
-        .. figure:: _static/images/multiphenicsx-slider.png
-
-            ..
-
-            
-            <a href="https://multiphenics.github.io/" target="_blank">From multiphenics to multiphenicsx, the next generation of easy prototyping of multiphysics problems in FEniCSx - new website released in April 2023.</a>
-        
-        .. figure:: _static/images/viskex-slider.png
-
-            ..
-
-            
-            <a href="https://viskex.github.io/" target="_blank">Announcing viskex - interactive visualization for firedrake and FEniCSx. Development started in March 2023.</a>
-        
-        .. figure:: _static/images/fem-on-kaggle-slider.png
-
-            ..
-
-            
-            <a href="https://fem-on-kaggle.github.io/" target="_blank">Introducing FEM on Kaggle, a spin-off of FEM on Colab to use FEniCS, FEniCSx, firedrake, gmsh and ngsolve on Kaggle. First release in December 2022.</a>
-        
-        .. figure:: _static/images/fem-on-colab-slider.png
-
-            ..
-
-            
-            <a href="https://fem-on-colab.github.io/" target="_blank">Introducing FEM on Colab, a collection of packages that allows to easily install several finite element libraries on Google Colab. Available packages are FEniCS, FEniCSx, firedrake, gmsh and ngsolve. First released in June 2021, and from January 2022 with periodic builds.</a>
-        
-        .. figure:: _static/images/femlium-slider.png
-
-            ..
-
-            
-            <a href="https://femlium.github.io/" target="_blank">FEMlium - interactive visualization of finite element simulations on geographic maps with folium - development of a new open source library started in May 2021 at Università Cattolica del Sacro Cuore.</a>
-        
-        .. figure:: _static/images/rbnics-slider.png
-
-            ..
-
-            
-            <a href="https://www.rbnicsproject.org/" target="_blank">RBniCS - reduced order modelling in FEniCS - visit the new website www.rbnicsproject.org launched in August 2020</a>
+            <a href="https://www.francescoballarin.it/software.html" target="_blank">Learn more about the open-source software libraries I develop.</a>
         
         .. figure:: _static/images/unicatt-slider.png
 
             ..
 
             
-            Bachelor and Master thesis projects available at unicatt under my supervision. Contact me if you are interested!
+            Thesis projects available at Università Cattolica del Sacro Cuore under my supervision. Contact me if you are interested!
         
 
 .. grid:: 1 1 2 2
