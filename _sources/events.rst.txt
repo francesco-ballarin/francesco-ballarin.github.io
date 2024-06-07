@@ -9,6 +9,8 @@ Events
     .. tab-item:: 2024
 
         
+            * Anna Sanfilippo, Ian Moore, Francesco Ballarin, Traian Iliescu, "Approximate deconvolution Leray reduced order model for convection-dominated flows". Talk in a minisymposium, `9th European Congress of Mathematics <https://ecm2024sevilla.com/>`_, Sevilla, Spain (15-19 Jul. 2024).
+            * Anna Sanfilippo, Ian Moore, Francesco Ballarin, Traian Iliescu, "Regularized reduced order models for incompressible flows". Talk, `FEniCS 2024 <https://fenicsproject.org/fenics-2024/>`_, Simula Research Laboratory, Oslo, Norway (12-14 Jun. 2024).
             * Francesco Ballarin, "Regularized reduced order models for control of Navier-Stokes equations". Invited seminar, `Data-Driven Physical Simulations seminar series <https://www.librom.net/ddps.html>`_, online (22 Feb. 2024).
             * Francesco Ballarin, "Regularized reduced order models for control of Navier-Stokes equations". Invited seminar, `Numerical Analysis of Galerkin ROMs seminar series <https://na-g-roms.github.io>`_, online (30 Jan. 2024).
             * Francesco Ballarin, Maria Strazzullo, Birgul Koc, Traian Iliescu. Organizer, `Numerical Analysis of Galerkin ROMs seminar series, third semester <https://na-g-roms.github.io>`_, online (23 Jan. 2024 - 7 May 2024).

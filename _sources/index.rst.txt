@@ -158,10 +158,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
+        * Talk in a minisymposium, `9th European Congress of Mathematics <https://ecm2024sevilla.com/>`_, Sevilla, Spain (15-19 Jul. 2024).
+        * Talk, `FEniCS 2024 <https://fenicsproject.org/fenics-2024/>`_, Simula Research Laboratory, Oslo, Norway (12-14 Jun. 2024).
         * Invited seminar, `Data-Driven Physical Simulations seminar series <https://www.librom.net/ddps.html>`_, online (22 Feb. 2024).
         * Invited seminar, `Numerical Analysis of Galerkin ROMs seminar series <https://na-g-roms.github.io>`_, online (30 Jan. 2024).
-        * Organizer, `Numerical Analysis of Galerkin ROMs seminar series, third semester <https://na-g-roms.github.io>`_, online (23 Jan. 2024 - 7 May 2024).
-        * Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (23 Oct. 2023).
         +++
         :doc:`Read more <events>`
 
