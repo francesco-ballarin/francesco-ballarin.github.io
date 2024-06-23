@@ -4,7 +4,7 @@ Francesco Ballarin
 =========================================================
 .. meta::
     :description lang=en:
-        Francesco Ballarin is a Associate Professor of Numerical Analysis at the Department of Mathematics and Physics, Università Cattolica del Sacro Cuore.
+        Francesco Ballarin is Associate Professor of Numerical Analysis at the Department of Mathematics and Physics, Università Cattolica del Sacro Cuore.
 
 .. toctree::
     :maxdepth: 1
