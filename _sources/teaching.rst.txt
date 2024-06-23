@@ -7,12 +7,16 @@ Teaching
     .. tab-item:: Current
 
     
-        * Teaching assistant for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Spring 2024, Spring 2023, Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
-        * Teaching assistant for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Fall 2023 + Spring 2024, Fall 2022 + Spring 2023, Fall 2021 + Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
-        * Lecturer for course on "Stochastic Processes and Optimization for Machine Learning". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (3 editions: Fall 2023, Fall 2022, Fall 2021). Lecturer of other module: Bruno Buonaguidi.
+        * Lecturer for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (1 edition: Spring 2025). Co-lecturer: Maurizio Paolini.
+        * Lecturer for course on "Computational fluid dynamics". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (1 edition: Fall 2024).
+        * Lecturer for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (1 edition: Fall 2024 + Spring 2025). Co-lecturer: Maurizio Paolini.
+        * Lecturer for course on "Stochastic Processes and Optimization for Machine Learning". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (4 editions: Fall 2024, Fall 2023, Fall 2022, Fall 2021). Co-lecturer: Bruno Buonaguidi.
+        * Lecturer for course on "Interdisciplinarity in science". Post-graduate program for middle school teachers, Università Cattolica del Sacro Cuore, Italy (2 editions: Fall 2024 in Brescia, Fall 2024 in Piacenza).
     .. tab-item:: Past
 
     
+        * Teaching assistant for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Spring 2024, Spring 2023, Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
+        * Teaching assistant for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Fall 2023 + Spring 2024, Fall 2022 + Spring 2023, Fall 2021 + Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
         * Lecturer for course on "`Summer School on Reduced Order Methods in Computational Fluid Dynamics <https://indico.sissa.it/event/74/>`_". Summer school at SISSA, Trieste, Italy (2 editions: Jul. 2022, Jul. 2019).
         * Teaching assistant for course on "Computational Mechanics by Reduced Order Methods". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy and Master in HPC, SISSA-ICTP, Italy (8 editions: Spring 2022, Spring 2021, Spring 2020, Spring 2019, Spring 2018, Spring 2017, Spring 2016, Spring 2015). Lecturer: Gianluigi Rozza.
         * Teaching assistant for course on "Topics in computational fluid dynamics". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (6 editions: Spring 2021, Spring 2020, Spring 2019, Spring 2018, Spring 2017, Spring 2016). Lecturer: Gianluigi Rozza.
