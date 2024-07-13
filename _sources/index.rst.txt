@@ -70,7 +70,7 @@ Francesco Ballarin
             ..
 
             
-            I will visit Virtualmech and the group of Prof. ‪Tomás Chacón Rebollo at Universidad de Sevilla for four weeks, within the ARIA project (July 2024).
+            I am visiting Virtualmech and the group of Prof. ‪Tomás Chacón Rebollo at Universidad de Sevilla for four weeks, within the ARIA project (July 2024).
         
         .. figure:: _static/images/fenics-slider.png
 
@@ -146,9 +146,9 @@ Francesco Ballarin
 
         :doc:`Students <students>`
         ^^^
+        * Advisor in the master thesis of Cinzia Freretti, "Computational fluid dynamics for blood flows". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Jul. 2024).
+        * Co-advisor in the bachelor thesis of Meryem Chibou, "Gauss elimination via the Bareiss algorithm". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Jul. 2024).
         * Co-advisor in the master thesis of Rebecca Faustini, "Spectral element methods for fourth order elliptic problems". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Apr. 2024).
-        * Advisor in the master thesis of Erica Pirondi, "Cluster Identification and Neural Network Application in Patients with Cardiovascular Disease". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Oct. 2023).
-        * Co-advisor in the bachelor thesis of Maria Ghisini, "Numerical optimization techniques for machine learning problems". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Jul. 2023).
         +++
         :doc:`Read more <students>`
 
