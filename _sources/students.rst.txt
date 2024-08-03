@@ -11,6 +11,7 @@ Students
         
         * Advisor in the master thesis of Cinzia Freretti, "Computational fluid dynamics for blood flows". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Jul. 2024). Advisor: Francesco Ballarin; co-advisors: Alessandro Musesti, Giulia Giantesio.
         * Co-advisor in the bachelor thesis of Meryem Chibou, "Gauss elimination via the Bareiss algorithm". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Jul. 2024). Advisor: Maurizio Paolini; co-advisor: Francesco Ballarin.
+        * Advisor in the graduate internship of Nikolaos Chatzikonstantinou, "Benchmarking Parallel Performance of Numerical MPI Packages". Internship in Google Summer of Code (Summer 2024). Advisors: Drew Parsons, Francesco Ballarin
         * Co-advisor in the master thesis of Rebecca Faustini, "Spectral element methods for fourth order elliptic problems". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Apr. 2024). Advisor: Maurizio Paolini; co-advisors: Paola Gervasio, Francesco Ballarin.
     
     .. tab-item:: 2023
