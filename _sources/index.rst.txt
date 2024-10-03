@@ -65,6 +65,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/semmat-slider.png
+
+            ..
+
+            
+            <a href="https://sites.google.com/unibs.it/semmat/home" target="_blank">I was appointed vice-director of the Seminario Matematico di Brescia (September 2024).</a>
+        
         .. figure:: _static/images/a-priori-slider.png
 
             ..
