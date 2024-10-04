@@ -65,6 +65,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/na-adl-rom-slider.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2410.02673" target="_blank">New preprint on a priori error bounds for the approximate deconvolution Leray ROM in fluid dynamics, by I. Moore, A. Sanfilippo, F. Ballarin and T. Iliescu (October 2024).</a>
+        
         .. figure:: _static/images/semmat-slider.png
 
             ..
