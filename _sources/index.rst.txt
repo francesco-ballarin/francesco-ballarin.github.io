@@ -65,6 +65,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/ocp-cardiovascular-slider.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2410.02673" target="_blank">New preprint on unsteady optimal control problems for cardiovascular flows, by S. Rathore, P. C. Africa, F. Ballarin, F. Pichi, M. Girfoglio, G. Rozza (October 2024).</a>
+        
         .. figure:: _static/images/na-adl-rom-slider.png
 
             ..
@@ -173,10 +180,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
+        * Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (21 Oct. 2024).
         * Talk in a minisymposium, `9th European Congress of Mathematics <https://ecm2024sevilla.com/>`_, Sevilla, Spain (15-19 Jul. 2024).
         * Talk, `FEniCS 2024 <https://fenicsproject.org/fenics-2024/>`_, Simula Research Laboratory, Oslo, Norway (12-14 Jun. 2024).
         * Minisymposium organizer, `SIAM UQ24 <https://meetings.siam.org/program.cfm?CONFCODE=uq24>`_, Trieste, Italy (27 Feb. 2024 - 1 Mar. 2024).
-        * Invited seminar, `Data-Driven Physical Simulations seminar series <https://www.librom.net/ddps.html>`_, online (22 Feb. 2024).
         +++
         :doc:`Read more <events>`
 

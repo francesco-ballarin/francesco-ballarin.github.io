@@ -9,6 +9,7 @@ Events
     .. tab-item:: 2024
 
         
+            * Francesco Ballarin, Maurizio Paolini, "Fluid dynamics in the aorta based on CT scan data". Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (21 Oct. 2024).
             * Anna Sanfilippo, Ian Moore, Francesco Ballarin, Traian Iliescu, "Approximate deconvolution Leray reduced order model for convection-dominated flows". Talk in a minisymposium, `9th European Congress of Mathematics <https://ecm2024sevilla.com/>`_, Sevilla, Spain (15-19 Jul. 2024).
             * Anna Sanfilippo, Ian Moore, Francesco Ballarin, Traian Iliescu, "Regularized reduced order models for incompressible flows". Talk, `FEniCS 2024 <https://fenicsproject.org/fenics-2024/>`_, Simula Research Laboratory, Oslo, Norway (12-14 Jun. 2024).
             * Anna Sanfilippo, Francesco Ballarin, Michele Girfoglio, Traian Iliescu. Minisymposium organizer, `SIAM UQ24 <https://meetings.siam.org/program.cfm?CONFCODE=uq24>`_, Trieste, Italy (27 Feb. 2024 - 1 Mar. 2024), minisymposium on "Regularization, Stabilization, and Closure Methods for Reduced Order Modeling of Differential Equations Under Uncertainty".
