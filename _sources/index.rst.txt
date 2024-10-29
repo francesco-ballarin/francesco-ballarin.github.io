@@ -70,7 +70,7 @@ Francesco Ballarin
             ..
 
             
-            <a href="https://arxiv.org/abs/2410.02673" target="_blank">New preprint on unsteady optimal control problems for cardiovascular flows, by S. Rathore, P. C. Africa, F. Ballarin, F. Pichi, M. Girfoglio, G. Rozza (October 2024).</a>
+            <a href="https://arxiv.org/abs/2410.20828" target="_blank">New preprint on unsteady optimal control problems for cardiovascular flows, by S. Rathore, P. C. Africa, F. Ballarin, F. Pichi, M. Girfoglio, G. Rozza (October 2024).</a>
         
         .. figure:: _static/images/na-adl-rom-slider.png
 
