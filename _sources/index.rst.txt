@@ -192,9 +192,9 @@ Francesco Ballarin
         :doc:`Projects <projects>`
         ^^^
         * Member and unit leader of "ROMEU: Reduced Order Models for Environmental and Urban flows", PRIN 2022 PNRR, 2023-2025.
+        * Member of "ROMEU: Mathematical models for viscoelastic biological matter", PRIN 2022, 2023-2025.
         * Member of "Metodi numerici per lo studio di strutture geometriche parametriche complesse", INdAM GNCS 2023, 2023.
         * Member and unit leader of "`ARIA: Accurate ROMs for Industrial Applications <https://project.inria.fr/aria/>`_", MSCA-RISE-2019, 2022-2024.
-        * Principal investigator of "Reduced order modelling for numerical simulation of partial differential equations", D.1 project by Università Cattolica del Sacro Cuore, 2022-2024.
         
         +++
         :doc:`Read more <projects>`
