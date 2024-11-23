@@ -13,7 +13,7 @@ Projects
     
         * Member of "Metodi numerici per lo studio di strutture geometriche parametriche complesse" (PI: Dr. Maria Strazzullo), INdAM GNCS 2023, 2023. Units: Politecnico di Torino, Università Cattolica del Sacro Cuore, Università di Parma.
     
-        * Member and unit leader of "`ARIA: Accurate ROMs for Industrial Applications <https://project.inria.fr/aria/>`_" (coordinated by Inria Bordeaux), MSCA-RISE-2019, 2022-2024. Leader of the Università Cattolica del Sacro Cuore unit. Other units: Inria, Optimad, Politecnico di Torino, Politecnico di Milano, SISSA, Esteco, NUREA, Valorem, Volkswagen, Virtual Mechanics, Universidad de Sevilla, IEFLUIDS, Università di Trieste, Conservatoire national des arts et métiers.
+        * Member and unit leader of "`ARIA: Accurate ROMs for Industrial Applications <https://project.inria.fr/aria/>`_" (coordinated by Inria Bordeaux), MSCA-RISE-2019, 2022-2024. Units: Inria, Optimad, Politecnico di Torino, Politecnico di Milano, SISSA, Esteco, NUREA, Valorem, Volkswagen, Virtual Mechanics, Universidad de Sevilla, IEFLUIDS, Università Cattolica del Sacro Cuore, Università di Trieste, Conservatoire national des arts et métiers.
     
         * Principal investigator of "Reduced order modelling for numerical simulation of partial differential equations", D.1 project by Università Cattolica del Sacro Cuore, 2022-2024. Units at Università Cattolica del Sacro Cuore: Department of Mathematics and Physics.
     
