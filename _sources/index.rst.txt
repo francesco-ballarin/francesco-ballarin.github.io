@@ -65,6 +65,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/vms-ef-slider.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2411.13957" target="_blank">New preprint on variational multiscale evolve and filter models for convection dominated flows, by M. Strazzullo, F. Ballarin, T. Iliescu, T. Chacón Rebollo (November 2024).</a>
+        
         .. figure:: _static/images/ocp-cardiovascular-slider.png
 
             ..
@@ -77,7 +84,7 @@ Francesco Ballarin
             ..
 
             
-            <a href="https://arxiv.org/abs/2410.02673" target="_blank">New preprint on a priori error bounds for the approximate deconvolution Leray ROM in fluid dynamics, by I. Moore, A. Sanfilippo, F. Ballarin and T. Iliescu (October 2024).</a>
+            <a href="https://arxiv.org/abs/2410.02673" target="_blank">New preprint on a priori error bounds for the approximate deconvolution Leray ROM in fluid dynamics, by I. Moore, A. Sanfilippo, F. Ballarin, T. Iliescu (October 2024).</a>
         
         .. figure:: _static/images/semmat-slider.png
 
