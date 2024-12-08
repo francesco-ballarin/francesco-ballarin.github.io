@@ -174,9 +174,9 @@ Francesco Ballarin
 
         :doc:`Students <students>`
         ^^^
+        * Advisor in the master thesis of Lorenzo Saracino, "Hedging strategies for value optimization in photovoltaic energy production". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Dec. 2024).
         * Advisor in the master thesis of Patrick Poetto, "Enhancing Neural Network Training Efficiency: Analysis of Gradient-Based Optimization Techniques". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Oct. 2024).
         * Advisor in the master thesis of Emila Vojkollari, "Analyzing Data of Patients with Coronary Diseases after Angioplasty". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Oct. 2024).
-        * Co-advisor in the bachelor thesis of Matilde Tartarini, "Numerical methods for dynamical systems: application to economics models". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Oct. 2024).
         +++
         :doc:`Read more <students>`
 
