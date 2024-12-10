@@ -65,6 +65,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/gbl-slider.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2412.05330" target="_blank">New preprint on glioblastoma growth by means of reduced order models based on AI, by D. Cerrone, D. Riccobelli, P. Vitullo, F. Ballarin, J. Falco, F. Acerbi, A. Manzoni, P. Zunino, P. Ciarletta (December 2024).</a>
+        
         .. figure:: _static/images/vms-ef-slider.png
 
             ..
