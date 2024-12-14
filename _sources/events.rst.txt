@@ -5,6 +5,12 @@ Events
 
 .. tab-set::
     
+    .. tab-item:: 2025
+
+        
+            * Cristóbal Bertoglio, David Nolte, Jaroslav Hron, Francesco Ballarin. Organizing committee, `FEniCS 2025 <https://fenicsproject.org/fenics-2025>`_, Groningen, The Netherlands (18-20 Jun. 2025).
+            * Erika Temellini, Francesco Ballarin, Tomás Chacón Rebollo, Simona Perotto, "Approximate deconvolution Leray reduced order model for convection-dominated flows". Talk in a minisymposium, `XII International Conference on Adaptive Modeling and Simulation ADMOS 2025 <https://admos2025.cimne.com/>`_, Barcelona, Spain (9-11 Jun. 2025).
+            * Francesco Ballarin, Enrique Delgado Ávila. Minisymposium organizer, `XII International Conference on Adaptive Modeling and Simulation ADMOS 2025 <https://admos2025.cimne.com/>`_, Barcelona, Spain (9-11 Jun. 2025), minisymposium on "Reduced Order Modeling Based on Galerkin Methods for Fluid Dynamics Problems".
     
     .. tab-item:: 2024
 
