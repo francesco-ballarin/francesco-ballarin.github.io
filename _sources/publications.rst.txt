@@ -41,21 +41,12 @@ Publications
             :filter: year and (year == "2021")
             :start: 38
     
-    .. tab-item:: 2020
+    .. tab-item:: < 2021
 
     
         .. bibliography::
             :list: enumerated
             :style: custom_bib_style_full_list
-            :filter: year and (year == "2020")
+            :filter: year and (year < "2021")
             :start: 27
-    
-    .. tab-item:: < 2020
-
-    
-        .. bibliography::
-            :list: enumerated
-            :style: custom_bib_style_full_list
-            :filter: year and (year < "2020")
-            :start: 19
     

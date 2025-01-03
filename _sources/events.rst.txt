@@ -5,6 +5,7 @@ Events
 
 .. tab-set::
     
+    
     .. tab-item:: 2025
 
         
@@ -62,15 +63,11 @@ Events
             * Federico Pichi, Maria Strazzullo, Francesco Ballarin, Gianluigi Rozza, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Talk in a minisymposium, `COUPLED 2021 <https://coupled2021.cimne.com/>`_, online (14-16 Jun. 2021).
             * Francesco Ballarin, "RBniCS and multiphenics: two FEniCS-based packages for reduced order modelling and multiphysics problems". Talk in a minisymposium, `WCCM ECCOMAS 2020 <https://www.wccm-eccomas2020.org/>`_, online (11-15 Jan. 2021).
     
-    .. tab-item:: 2020
+    .. tab-item:: < 2021
 
         
             * Federico Pichi, Maria Strazzullo, Francesco Ballarin, Gianluigi Rozza, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Invited seminar, `CASA Colloquia 2020 <https://www.win.tue.nl/casa/meetings/colloquium/2021/>`_, Department of Mathematics and Computer Science, Eindhoven University of Technology, The Netherlands (16 Dec. 2020).
             * Gianluigi Rozza, Giovanni Stabile, Francesco Ballarin. Minisymposium organizer, `SIAM UQ 2020 (canceled) <https://www.siam.org/conferences/cm/conference/uq20>`_, Munich Garching, Germany (24-27 Mar. 2020), minisymposium on "Reduced order methods for uncertainty quantification in CFD parametric problems".
-    
-    .. tab-item:: < 2020
-
-        
             * Francesco Ballarin, "Mathematical modelling of the cardiovascular system". Divulgative seminar, `Junior Math Days 2019 <https://people.sissa.it/~vfantini/JMD2019/SchoolMath.html>`_, SISSA, Trieste, Italy (18 Dec. 2019).
             * Francesco Ballarin, "RBniCS and multiphenics: two FEniCS-based packages for reduced order modelling and multiphysics problems". Invited seminar, Engineering Science Research Unit, University of Luxembourg (18 Nov. 2019).
             * Efthymios N. Karatzas, Francesco Ballarin, Gianluigi Rozza, "Projection-based ROMs for CutFEM in parametrized domains". Talk in a minisymposium, `ENUMATH 2019 <https://www.enumath2019.eu/>`_, Egmond aan Zee, The Netherlands (30 Sep. 2019 - 4 Oct. 2019).

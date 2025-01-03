@@ -107,20 +107,6 @@ Francesco Ballarin
             
             <a href="https://arxiv.org/abs/2409.00621" target="_blank">New preprint on a priori error bounds for reduced order models based on proper orthogonal decomposition for applications in fluid dynamics, by F. Ballarin and T. Iliescu (September 2024).</a>
         
-        .. figure:: _static/images/software-slider.png
-
-            ..
-
-            
-            <a href="https://www.francescoballarin.it/software.html" target="_blank">Learn more about the open-source software libraries I develop.</a>
-        
-        .. figure:: _static/images/unicatt-slider.png
-
-            ..
-
-            
-            Thesis projects available at Università Cattolica del Sacro Cuore under my supervision. Contact me if you are interested!
-        
 
 .. grid:: 1 1 2 2
     :gutter: 2

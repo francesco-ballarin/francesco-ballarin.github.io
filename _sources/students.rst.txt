@@ -6,6 +6,7 @@ Students
 .. tab-set::
     
     
+    
     .. tab-item:: 2024
 
         
@@ -45,16 +46,12 @@ Students
         * Committee member in the master thesis of Jack Tattersall, "Hemodynamic modelling of arteriovenous grafts". Master degree in Biomedical Engineering, Eindhoven University of Technology, the Netherlands (May 2021). Advisors: Wouter Huberts, Maarten Snoeijs, Frans van de Vosse
         * Co-advisor in the master thesis of Anna Sanfilippo, "Reduced Basis Methods for Electromagnetic Problems". Master degree in Mathematics, University of Trento, Italy (Mar. 2021). Advisor: Ana Alonso Rodriguez; co-advisor: Francesco Ballarin.
     
-    .. tab-item:: 2020
+    .. tab-item:: < 2021
 
         
         * Co-advisor in the Ph.D. thesis of Monica Nonino, "`On the application of the Reduced Basis Method to Fluid-Structure Interaction problems <http://hdl.handle.net/20.500.11767/114309>`_". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (Sep. 2020). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the Ph.D. thesis of Federico Pichi, "`Reduced order models for parametric bifurcation problems in nonlinear PDEs <http://hdl.handle.net/20.500.11767/114329>`_". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (Sep. 2020). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the master thesis of Giuseppe Infantino, "`Reduced order methods for hemodynamics modelling <http://webthesis.biblio.polito.it/14783/1/tesi.pdf>`_". Master degree in Mathematical Engineering, Politecnico di Torino, Italy (Jul. 2020). Advisors: Claudio Canuto, Gianluigi Rozza; co-advisors: Francesco Ballarin, Michele Girfoglio.
-    
-    .. tab-item:: < 2020
-
-        
         * Co-advisor in the master thesis of Julien Genovese, "`Reduced order methods for uncertainty quantification in computational fluid dynamics <https://webthesis.biblio.polito.it/11989/1/tesi.pdf>`_". Master degree in Mathematical Engineering, Politecnico di Torino, Italy (Oct. 2019). Advisors: Claudio Canuto, Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the Ph.D. thesis of Zakia Zainib, "`Reduced order parametrized viscous optimal flow control problems and applications in coronary artery bypass grafts with patient-specific geometrical reconstruction and data assimilation <http://hdl.handle.net/20.500.11767/103036>`_". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (Sep. 2019). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the undergraduate internship of Laura Huang, "Worked examples on reduced order methods in computational mechanics". Internship in MISTI MIT-Italy Program (Summer 2019). Advisor: Gianluigi Rozza; co-advisors: Francesco Ballarin, Monica Nonino.
