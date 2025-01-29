@@ -6,6 +6,11 @@ Students
 .. tab-set::
     
     
+    .. tab-item:: 2025
+
+        
+        * Advisor in the master thesis of Anuja Saira Abraham, "Skin Cancer Prediction: A comparative analysis of CNN, VGG, AlexNet and ResNet Deep Learning models". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Feb. 2025). Advisor: Francesco Ballarin
+        * Advisor in the master thesis of Riccardo Carotenuto, "Efficiency of neural networks: an approach with ReLU and Adam". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Feb. 2025). Advisor: Francesco Ballarin
     
     .. tab-item:: 2024
 

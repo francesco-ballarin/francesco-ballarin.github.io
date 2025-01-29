@@ -153,9 +153,9 @@ Francesco Ballarin
 
         :doc:`Students <students>`
         ^^^
+        * Advisor in the master thesis of Anuja Saira Abraham, "Skin Cancer Prediction: A comparative analysis of CNN, VGG, AlexNet and ResNet Deep Learning models". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Feb. 2025).
+        * Advisor in the master thesis of Riccardo Carotenuto, "Efficiency of neural networks: an approach with ReLU and Adam". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Feb. 2025).
         * Advisor in the master thesis of Lorenzo Saracino, "Hedging strategies for value optimization in photovoltaic energy production". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Dec. 2024).
-        * Advisor in the master thesis of Patrick Poetto, "Enhancing Neural Network Training Efficiency: Analysis of Gradient-Based Optimization Techniques". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Oct. 2024).
-        * Advisor in the master thesis of Emila Vojkollari, "Analyzing Data of Patients with Coronary Diseases after Angioplasty". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Oct. 2024).
         +++
         :doc:`Read more <students>`
 
@@ -169,7 +169,7 @@ Francesco Ballarin
         * Organizing committee, `FEniCS 2025 <https://fenicsproject.org/fenics-2025>`_, Groningen, The Netherlands (18-20 Jun. 2025).
         * Talk in a minisymposium, `XII International Conference on Adaptive Modeling and Simulation ADMOS 2025 <https://admos2025.cimne.com/>`_, Barcelona, Spain (9-11 Jun. 2025).
         * Minisymposium organizer, `XII International Conference on Adaptive Modeling and Simulation ADMOS 2025 <https://admos2025.cimne.com/>`_, Barcelona, Spain (9-11 Jun. 2025).
-        * Divulgative seminar, Celebration of mind, Università Cattolica del Sacro Cuore, Brescia, Italy (21 Oct. 2024).
+        * Organizing committee, `YoungPeople4Math 2025 <https://sites.google.com/unibs.it/semmat/youngpeople4math2025>`_, Brescia, Italy (20 May 2025).
         +++
         :doc:`Read more <events>`
 
