@@ -85,7 +85,7 @@ Software
     
 
     
-        **FEMlium** is a library that enables visualizing finite element simulations on geographic maps using **folium**. Several finite element backends are supported, namely dolfin, dolfinx and firedrake.
+        **FEMlium** is a library that enables visualizing finite element simulations on geographic maps using **folium**. Supported finite element backends are dolfinx and firedrake.
     
         **FEMlium** is currently developed and maintained at `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_ by `Prof. Francesco Ballarin <https://www.francescoballarin.it/>`_.
     
